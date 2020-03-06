@@ -1,0 +1,2684 @@
+﻿[
+  {
+    "Ligne": "T1",
+    "Mode": "T",
+    "Numero": "1",
+    "Sens": "ALL",
+    "Destination": "IUT Feyssine",
+    "TempsReel": true,
+    "Ordre": 20001
+  },
+  {
+    "Ligne": "T1",
+    "Mode": "T",
+    "Numero": "1",
+    "Sens": "RET",
+    "Destination": "Debourg",
+    "TempsReel": true,
+    "Ordre": 20001
+  },
+  {
+    "Ligne": "T2",
+    "Mode": "T",
+    "Numero": "2",
+    "Sens": "ALL",
+    "Destination": "St Priest Bel Air",
+    "TempsReel": true,
+    "Ordre": 20002
+  },
+  {
+    "Ligne": "T2",
+    "Mode": "T",
+    "Numero": "2",
+    "Sens": "RET",
+    "Destination": "Perrache",
+    "TempsReel": true,
+    "Ordre": 20002
+  },
+  {
+    "Ligne": "T3",
+    "Mode": "T",
+    "Numero": "3",
+    "Sens": "ALL",
+    "Destination": "Meyzieu les Panettes",
+    "TempsReel": true,
+    "Ordre": 20003
+  },
+  {
+    "Ligne": "T3",
+    "Mode": "T",
+    "Numero": "3",
+    "Sens": "RET",
+    "Destination": "Gare Part-Dieu Vivier Merle",
+    "TempsReel": true,
+    "Ordre": 20003
+  },
+  {
+    "Ligne": "T4",
+    "Mode": "T",
+    "Numero": "4",
+    "Sens": "ALL",
+    "Destination": "Hopital Feyzin Venissieux",
+    "TempsReel": true,
+    "Ordre": 20004
+  },
+  {
+    "Ligne": "T4",
+    "Mode": "T",
+    "Numero": "4",
+    "Sens": "RET",
+    "Destination": "La Doua - Gaston Berger",
+    "TempsReel": true,
+    "Ordre": 20004
+  },
+  {
+    "Ligne": "T5",
+    "Mode": "T",
+    "Numero": "5",
+    "Sens": "ALL",
+    "Destination": "Eurexpo Entrée Principale",
+    "TempsReel": true,
+    "Ordre": 20005
+  },
+  {
+    "Ligne": "T5",
+    "Mode": "T",
+    "Numero": "5",
+    "Sens": "RET",
+    "Destination": "Grange Blanche",
+    "TempsReel": true,
+    "Ordre": 20005
+  },
+  {
+    "Ligne": "T6",
+    "Mode": "T",
+    "Numero": "6",
+    "Sens": "ALL",
+    "Destination": "Hôpitaux Est - Pinel",
+    "TempsReel": true,
+    "Ordre": 20006
+  },
+  {
+    "Ligne": "T6",
+    "Mode": "T",
+    "Numero": "6",
+    "Sens": "RET",
+    "Destination": "Debourg",
+    "TempsReel": true,
+    "Ordre": 20006
+  },
+  {
+    "Ligne": "C1",
+    "Mode": "C",
+    "Numero": "1",
+    "Sens": "ALL",
+    "Destination": "Cuire",
+    "TempsReel": true,
+    "Ordre": 30010
+  },
+  {
+    "Ligne": "C1",
+    "Mode": "C",
+    "Numero": "1",
+    "Sens": "RET",
+    "Destination": "Gare Part-Dieu Vivier Merle",
+    "TempsReel": true,
+    "Ordre": 30010
+  },
+  {
+    "Ligne": "C2",
+    "Mode": "C",
+    "Numero": "2",
+    "Sens": "ALL",
+    "Destination": "Rillieux Semailles",
+    "TempsReel": true,
+    "Ordre": 30020
+  },
+  {
+    "Ligne": "C2",
+    "Mode": "C",
+    "Numero": "2",
+    "Sens": "RET",
+    "Destination": "Gare Part-Dieu Vivier Merle",
+    "TempsReel": true,
+    "Ordre": 30020
+  },
+  {
+    "Ligne": "C3",
+    "Mode": "C",
+    "Numero": "3",
+    "Sens": "ALL",
+    "Destination": "Vaulx-en-Velin La Grappiniere",
+    "TempsReel": true,
+    "Ordre": 30030
+  },
+  {
+    "Ligne": "C3",
+    "Mode": "C",
+    "Numero": "3",
+    "Sens": "RET",
+    "Destination": "Gare Saint-Paul",
+    "TempsReel": true,
+    "Ordre": 30030
+  },
+  {
+    "Ligne": "C4",
+    "Mode": "C",
+    "Numero": "4",
+    "Sens": "ALL",
+    "Destination": "Cité Internationale",
+    "TempsReel": true,
+    "Ordre": 30040
+  },
+  {
+    "Ligne": "C4",
+    "Mode": "C",
+    "Numero": "4",
+    "Sens": "RET",
+    "Destination": "Jean Macé",
+    "TempsReel": true,
+    "Ordre": 30040
+  },
+  {
+    "Ligne": "C5",
+    "Mode": "C",
+    "Numero": "5",
+    "Sens": "ALL",
+    "Destination": "Rillieux Semailles",
+    "TempsReel": true,
+    "Ordre": 30050
+  },
+  {
+    "Ligne": "C5",
+    "Mode": "C",
+    "Numero": "5",
+    "Sens": "RET",
+    "Destination": "Cordeliers",
+    "TempsReel": true,
+    "Ordre": 30050
+  },
+  {
+    "Ligne": "C6",
+    "Mode": "C",
+    "Numero": "6",
+    "Sens": "ALL",
+    "Destination": "Ecully Le Perollier",
+    "TempsReel": true,
+    "Ordre": 30060
+  },
+  {
+    "Ligne": "C6",
+    "Mode": "C",
+    "Numero": "6",
+    "Sens": "RET",
+    "Destination": "Gare Part-Dieu Vivier Merle",
+    "TempsReel": true,
+    "Ordre": 30060
+  },
+  {
+    "Ligne": "C7",
+    "Mode": "C",
+    "Numero": "7",
+    "Sens": "ALL",
+    "Destination": "Hopital Lyon Sud",
+    "TempsReel": true,
+    "Ordre": 30070
+  },
+  {
+    "Ligne": "C7",
+    "Mode": "C",
+    "Numero": "7",
+    "Sens": "RET",
+    "Destination": "Gare Part-Dieu Vivier Merle",
+    "TempsReel": true,
+    "Ordre": 30070
+  },
+  {
+    "Ligne": "C8",
+    "Mode": "C",
+    "Numero": "8",
+    "Sens": "ALL",
+    "Destination": "Vaulx-en-Velin Resistance",
+    "TempsReel": true,
+    "Ordre": 30080
+  },
+  {
+    "Ligne": "C8",
+    "Mode": "C",
+    "Numero": "8",
+    "Sens": "RET",
+    "Destination": "Grange Blanche",
+    "TempsReel": true,
+    "Ordre": 30080
+  },
+  {
+    "Ligne": "C9",
+    "Mode": "C",
+    "Numero": "9",
+    "Sens": "ALL",
+    "Destination": "Hopitaux Est",
+    "TempsReel": true,
+    "Ordre": 30090
+  },
+  {
+    "Ligne": "C9",
+    "Mode": "C",
+    "Numero": "9",
+    "Sens": "RET",
+    "Destination": "Bellecour Antonin Poncet",
+    "TempsReel": true,
+    "Ordre": 30090
+  },
+  {
+    "Ligne": "C10",
+    "Mode": "C",
+    "Numero": "10",
+    "Sens": "ALL",
+    "Destination": "Saint-Genis Barolles",
+    "TempsReel": true,
+    "Ordre": 30100
+  },
+  {
+    "Ligne": "C10",
+    "Mode": "C",
+    "Numero": "10",
+    "Sens": "RET",
+    "Destination": "Bellecour Charite",
+    "TempsReel": true,
+    "Ordre": 30100
+  },
+  {
+    "Ligne": "C11",
+    "Mode": "C",
+    "Numero": "11",
+    "Sens": "ALL",
+    "Destination": "Laurent Bonnevay",
+    "TempsReel": true,
+    "Ordre": 30110
+  },
+  {
+    "Ligne": "C11",
+    "Mode": "C",
+    "Numero": "11",
+    "Sens": "RET",
+    "Destination": "Saxe - Gambetta",
+    "TempsReel": true,
+    "Ordre": 30110
+  },
+  {
+    "Ligne": "C12",
+    "Mode": "C",
+    "Numero": "12",
+    "Sens": "ALL",
+    "Destination": "Hopital Feyzin Venissieux",
+    "TempsReel": true,
+    "Ordre": 30120
+  },
+  {
+    "Ligne": "C12",
+    "Mode": "C",
+    "Numero": "12",
+    "Sens": "RET",
+    "Destination": "Bellecour Antonin Poncet",
+    "TempsReel": true,
+    "Ordre": 30120
+  },
+  {
+    "Ligne": "C13",
+    "Mode": "C",
+    "Numero": "13",
+    "Sens": "ALL",
+    "Destination": "Hôtel de Ville - Louis Pradel",
+    "TempsReel": true,
+    "Ordre": 30130
+  },
+  {
+    "Ligne": "C13",
+    "Mode": "C",
+    "Numero": "13",
+    "Sens": "RET",
+    "Destination": "Grange Blanche",
+    "TempsReel": true,
+    "Ordre": 30130
+  },
+  {
+    "Ligne": "C14",
+    "Mode": "C",
+    "Numero": "14",
+    "Sens": "ALL",
+    "Destination": "Les Sources",
+    "TempsReel": true,
+    "Ordre": 30140
+  },
+  {
+    "Ligne": "C14",
+    "Mode": "C",
+    "Numero": "14",
+    "Sens": "RET",
+    "Destination": "Jean Macé",
+    "TempsReel": true,
+    "Ordre": 30140
+  },
+  {
+    "Ligne": "C15",
+    "Mode": "C",
+    "Numero": "15",
+    "Sens": "ALL",
+    "Destination": "Laurent Bonnevay",
+    "TempsReel": true,
+    "Ordre": 30150
+  },
+  {
+    "Ligne": "C15",
+    "Mode": "C",
+    "Numero": "15",
+    "Sens": "RET",
+    "Destination": "Bachut - Mairie du 8ème",
+    "TempsReel": true,
+    "Ordre": 30150
+  },
+  {
+    "Ligne": "C15E",
+    "Mode": "C",
+    "Numero": "15E",
+    "Sens": "ALL",
+    "Destination": "Parilly Universite Hippodrome",
+    "TempsReel": true,
+    "Ordre": 30151
+  },
+  {
+    "Ligne": "C15E",
+    "Mode": "C",
+    "Numero": "15E",
+    "Sens": "RET",
+    "Destination": "Mermoz - Pinel",
+    "TempsReel": true,
+    "Ordre": 30151
+  },
+  {
+    "Ligne": "C16",
+    "Mode": "C",
+    "Numero": "16",
+    "Sens": "ALL",
+    "Destination": "Surville Route de Vienne",
+    "TempsReel": true,
+    "Ordre": 30160
+  },
+  {
+    "Ligne": "C16",
+    "Mode": "C",
+    "Numero": "16",
+    "Sens": "RET",
+    "Destination": "Charpennes",
+    "TempsReel": true,
+    "Ordre": 30160
+  },
+  {
+    "Ligne": "C17",
+    "Mode": "C",
+    "Numero": "17",
+    "Sens": "ALL",
+    "Destination": "Porte des Alpes",
+    "TempsReel": true,
+    "Ordre": 30170
+  },
+  {
+    "Ligne": "C17",
+    "Mode": "C",
+    "Numero": "17",
+    "Sens": "RET",
+    "Destination": "Charpennes",
+    "TempsReel": true,
+    "Ordre": 30170
+  },
+  {
+    "Ligne": "C18",
+    "Mode": "C",
+    "Numero": "18",
+    "Sens": "ALL",
+    "Destination": "Croix-Rousse Nord",
+    "TempsReel": true,
+    "Ordre": 30180
+  },
+  {
+    "Ligne": "C18",
+    "Mode": "C",
+    "Numero": "18",
+    "Sens": "RET",
+    "Destination": "Hôtel de Ville - Louis Pradel",
+    "TempsReel": true,
+    "Ordre": 30180
+  },
+  {
+    "Ligne": "C19",
+    "Mode": "C",
+    "Numero": "19",
+    "Sens": "ALL",
+    "Destination": "Francheville Taffignon",
+    "TempsReel": true,
+    "Ordre": 30190
+  },
+  {
+    "Ligne": "C19",
+    "Mode": "C",
+    "Numero": "19",
+    "Sens": "RET",
+    "Destination": "Perrache",
+    "TempsReel": true,
+    "Ordre": 30190
+  },
+  {
+    "Ligne": "C20",
+    "Mode": "C",
+    "Numero": "20",
+    "Sens": "ALL",
+    "Destination": "Francheville Taffignon",
+    "TempsReel": true,
+    "Ordre": 30200
+  },
+  {
+    "Ligne": "C20",
+    "Mode": "C",
+    "Numero": "20",
+    "Sens": "RET",
+    "Destination": "Bellecour Le Viste",
+    "TempsReel": true,
+    "Ordre": 30200
+  },
+  {
+    "Ligne": "C20E",
+    "Mode": "C",
+    "Numero": "20E",
+    "Sens": "ALL",
+    "Destination": "Fort du Bruissin",
+    "TempsReel": true,
+    "Ordre": 30201
+  },
+  {
+    "Ligne": "C20E",
+    "Mode": "C",
+    "Numero": "20E",
+    "Sens": "RET",
+    "Destination": "Bellecour Le Viste",
+    "TempsReel": true,
+    "Ordre": 30201
+  },
+  {
+    "Ligne": "C21",
+    "Mode": "C",
+    "Numero": "21",
+    "Sens": "ALL",
+    "Destination": "Gorge de Loup",
+    "TempsReel": true,
+    "Ordre": 30210
+  },
+  {
+    "Ligne": "C21",
+    "Mode": "C",
+    "Numero": "21",
+    "Sens": "RET",
+    "Destination": "Perrache",
+    "TempsReel": true,
+    "Ordre": 30210
+  },
+  {
+    "Ligne": "C22",
+    "Mode": "C",
+    "Numero": "22",
+    "Sens": "ALL",
+    "Destination": "Grange Blanche",
+    "TempsReel": true,
+    "Ordre": 30220
+  },
+  {
+    "Ligne": "C22",
+    "Mode": "C",
+    "Numero": "22",
+    "Sens": "RET",
+    "Destination": "Perrache",
+    "TempsReel": true,
+    "Ordre": 30220
+  },
+  {
+    "Ligne": "C24",
+    "Mode": "C",
+    "Numero": "24",
+    "Sens": "ALL",
+    "Destination": "Gymnase E.Catalon",
+    "TempsReel": true,
+    "Ordre": 30240
+  },
+  {
+    "Ligne": "C24",
+    "Mode": "C",
+    "Numero": "24",
+    "Sens": "RET",
+    "Destination": "Gorge de Loup",
+    "TempsReel": true,
+    "Ordre": 30240
+  },
+  {
+    "Ligne": "C24E",
+    "Mode": "C",
+    "Numero": "24E",
+    "Sens": "ALL",
+    "Destination": "Gymnase E.Catalon",
+    "TempsReel": true,
+    "Ordre": 30241
+  },
+  {
+    "Ligne": "C24E",
+    "Mode": "C",
+    "Numero": "24E",
+    "Sens": "RET",
+    "Destination": "Gorge de Loup",
+    "TempsReel": true,
+    "Ordre": 30241
+  },
+  {
+    "Ligne": "C25",
+    "Mode": "C",
+    "Numero": "25",
+    "Sens": "ALL",
+    "Destination": "Sogaris - Promotrans",
+    "TempsReel": true,
+    "Ordre": 30250
+  },
+  {
+    "Ligne": "C25",
+    "Mode": "C",
+    "Numero": "25",
+    "Sens": "RET",
+    "Destination": "Gare Part-Dieu Vivier Merle",
+    "TempsReel": true,
+    "Ordre": 30250
+  },
+  {
+    "Ligne": "C26",
+    "Mode": "C",
+    "Numero": "26",
+    "Sens": "ALL",
+    "Destination": "Grange Blanche",
+    "TempsReel": true,
+    "Ordre": 30260
+  },
+  {
+    "Ligne": "C26",
+    "Mode": "C",
+    "Numero": "26",
+    "Sens": "RET",
+    "Destination": "Cité Internationale - Transbordeur",
+    "TempsReel": true,
+    "Ordre": 30260
+  },
+  {
+    "Ligne": "2",
+    "Mode": "BUS",
+    "Numero": "2",
+    "Sens": "ALL",
+    "Destination": "Plateaux de St Rambert",
+    "TempsReel": true,
+    "Ordre": 40020
+  },
+  {
+    "Ligne": "2",
+    "Mode": "BUS",
+    "Numero": "2",
+    "Sens": "RET",
+    "Destination": "Croix-Rousse",
+    "TempsReel": true,
+    "Ordre": 40020
+  },
+  {
+    "Ligne": "3",
+    "Mode": "BUS",
+    "Numero": "3",
+    "Sens": "ALL",
+    "Destination": "Dardilly Le Jubin",
+    "TempsReel": true,
+    "Ordre": 40030
+  },
+  {
+    "Ligne": "3",
+    "Mode": "BUS",
+    "Numero": "3",
+    "Sens": "RET",
+    "Destination": "Gorge de Loup",
+    "TempsReel": true,
+    "Ordre": 40030
+  },
+  {
+    "Ligne": "4",
+    "Mode": "BUS",
+    "Numero": "4",
+    "Sens": "ALL",
+    "Destination": "Campus Lyon Ouest",
+    "TempsReel": true,
+    "Ordre": 40040
+  },
+  {
+    "Ligne": "4",
+    "Mode": "BUS",
+    "Numero": "4",
+    "Sens": "RET",
+    "Destination": "Gare de Vaise",
+    "TempsReel": true,
+    "Ordre": 40040
+  },
+  {
+    "Ligne": "5",
+    "Mode": "BUS",
+    "Numero": "5",
+    "Sens": "ALL",
+    "Destination": "Charbonnieres Les Verrieres",
+    "TempsReel": true,
+    "Ordre": 40050
+  },
+  {
+    "Ligne": "5",
+    "Mode": "BUS",
+    "Numero": "5",
+    "Sens": "RET",
+    "Destination": "Pont Mouton",
+    "TempsReel": true,
+    "Ordre": 40050
+  },
+  {
+    "Ligne": "6",
+    "Mode": "BUS",
+    "Numero": "6",
+    "Sens": "ALL",
+    "Destination": "Techlid Le Paisy",
+    "TempsReel": true,
+    "Ordre": 40060
+  },
+  {
+    "Ligne": "6",
+    "Mode": "BUS",
+    "Numero": "6",
+    "Sens": "RET",
+    "Destination": "Gare de Vaise",
+    "TempsReel": true,
+    "Ordre": 40060
+  },
+  {
+    "Ligne": "7",
+    "Mode": "BUS",
+    "Numero": "7",
+    "Sens": "ALL",
+    "Destination": "Vaulx-en-Velin Le Bourg",
+    "TempsReel": true,
+    "Ordre": 40070
+  },
+  {
+    "Ligne": "7",
+    "Mode": "BUS",
+    "Numero": "7",
+    "Sens": "RET",
+    "Destination": "Laurent Bonnevay",
+    "TempsReel": true,
+    "Ordre": 40070
+  },
+  {
+    "Ligne": "8",
+    "Mode": "BUS",
+    "Numero": "8",
+    "Sens": "ALL",
+    "Destination": "Oullins Clement Desormes",
+    "TempsReel": true,
+    "Ordre": 40080
+  },
+  {
+    "Ligne": "8",
+    "Mode": "BUS",
+    "Numero": "8",
+    "Sens": "RET",
+    "Destination": "Perrache",
+    "TempsReel": true,
+    "Ordre": 40080
+  },
+  {
+    "Ligne": "9",
+    "Mode": "BUS",
+    "Numero": "9",
+    "Sens": "ALL",
+    "Destination": "Sathonay Castellane",
+    "TempsReel": true,
+    "Ordre": 40090
+  },
+  {
+    "Ligne": "9",
+    "Mode": "BUS",
+    "Numero": "9",
+    "Sens": "RET",
+    "Destination": "Cordeliers",
+    "TempsReel": true,
+    "Ordre": 40090
+  },
+  {
+    "Ligne": "11",
+    "Mode": "BUS",
+    "Numero": "11",
+    "Sens": "ALL",
+    "Destination": "Thurins Mairie",
+    "TempsReel": true,
+    "Ordre": 40110
+  },
+  {
+    "Ligne": "11",
+    "Mode": "BUS",
+    "Numero": "11",
+    "Sens": "RET",
+    "Destination": "Gare d'Oullins",
+    "TempsReel": true,
+    "Ordre": 40110
+  },
+  {
+    "Ligne": "12",
+    "Mode": "BUS",
+    "Numero": "12",
+    "Sens": "ALL",
+    "Destination": "St-Genis 2",
+    "TempsReel": true,
+    "Ordre": 40120
+  },
+  {
+    "Ligne": "12",
+    "Mode": "BUS",
+    "Numero": "12",
+    "Sens": "RET",
+    "Destination": "Gare d'Oullins",
+    "TempsReel": true,
+    "Ordre": 40120
+  },
+  {
+    "Ligne": "14",
+    "Mode": "BUS",
+    "Numero": "14",
+    "Sens": "ALL",
+    "Destination": "Gorge de Loup",
+    "TempsReel": true,
+    "Ordre": 40140
+  },
+  {
+    "Ligne": "14",
+    "Mode": "BUS",
+    "Numero": "14",
+    "Sens": "RET",
+    "Destination": "Gare d'Oullins",
+    "TempsReel": true,
+    "Ordre": 40140
+  },
+  {
+    "Ligne": "15",
+    "Mode": "BUS",
+    "Numero": "15",
+    "Sens": "ALL",
+    "Destination": "Irigny Hauts de Selettes",
+    "TempsReel": true,
+    "Ordre": 40150
+  },
+  {
+    "Ligne": "15",
+    "Mode": "BUS",
+    "Numero": "15",
+    "Sens": "RET",
+    "Destination": "Bellecour Charite",
+    "TempsReel": true,
+    "Ordre": 40150
+  },
+  {
+    "Ligne": "15E",
+    "Mode": "BUS",
+    "Numero": "15E",
+    "Sens": "ALL",
+    "Destination": "Vernaison Place",
+    "TempsReel": true,
+    "Ordre": 40151
+  },
+  {
+    "Ligne": "15E",
+    "Mode": "BUS",
+    "Numero": "15E",
+    "Sens": "RET",
+    "Destination": "Bellecour Charite",
+    "TempsReel": true,
+    "Ordre": 40151
+  },
+  {
+    "Ligne": "16",
+    "Mode": "BUS",
+    "Numero": "16",
+    "Sens": "ALL",
+    "Destination": "Décines Grand Large",
+    "TempsReel": true,
+    "Ordre": 40160
+  },
+  {
+    "Ligne": "16",
+    "Mode": "BUS",
+    "Numero": "16",
+    "Sens": "RET",
+    "Destination": "Vaulx-en-Velin La Soie",
+    "TempsReel": true,
+    "Ordre": 40160
+  },
+  {
+    "Ligne": "17",
+    "Mode": "BUS",
+    "Numero": "17",
+    "Sens": "ALL",
+    "Destination": "St-Genis Lycee Descartes",
+    "TempsReel": true,
+    "Ordre": 40170
+  },
+  {
+    "Ligne": "17",
+    "Mode": "BUS",
+    "Numero": "17",
+    "Sens": "RET",
+    "Destination": "Ste-Foy Place Saint Luc",
+    "TempsReel": true,
+    "Ordre": 40170
+  },
+  {
+    "Ligne": "18",
+    "Mode": "BUS",
+    "Numero": "18",
+    "Sens": "ALL",
+    "Destination": "Vernaison place",
+    "TempsReel": true,
+    "Ordre": 40180
+  },
+  {
+    "Ligne": "18",
+    "Mode": "BUS",
+    "Numero": "18",
+    "Sens": "RET",
+    "Destination": "Gare d'Oullins",
+    "TempsReel": true,
+    "Ordre": 40180
+  },
+  {
+    "Ligne": "19",
+    "Mode": "BUS",
+    "Numero": "19",
+    "Sens": "ALL",
+    "Destination": "Ecully Le Perollier",
+    "TempsReel": true,
+    "Ordre": 40190
+  },
+  {
+    "Ligne": "19",
+    "Mode": "BUS",
+    "Numero": "19",
+    "Sens": "RET",
+    "Destination": "Hôtel de Ville - Louis Pradel",
+    "TempsReel": true,
+    "Ordre": 40190
+  },
+  {
+    "Ligne": "20",
+    "Mode": "BUS",
+    "Numero": "20",
+    "Sens": "ALL",
+    "Destination": "St Cyr",
+    "TempsReel": true,
+    "Ordre": 40200
+  },
+  {
+    "Ligne": "20",
+    "Mode": "BUS",
+    "Numero": "20",
+    "Sens": "RET",
+    "Destination": "Gare de Vaise",
+    "TempsReel": true,
+    "Ordre": 40200
+  },
+  {
+    "Ligne": "21",
+    "Mode": "BUS",
+    "Numero": "21",
+    "Sens": "ALL",
+    "Destination": "Chasselay",
+    "TempsReel": true,
+    "Ordre": 40210
+  },
+  {
+    "Ligne": "21",
+    "Mode": "BUS",
+    "Numero": "21",
+    "Sens": "RET",
+    "Destination": "Gare de Vaise",
+    "TempsReel": true,
+    "Ordre": 40210
+  },
+  {
+    "Ligne": "22",
+    "Mode": "BUS",
+    "Numero": "22",
+    "Sens": "ALL",
+    "Destination": "St Fortunat",
+    "TempsReel": true,
+    "Ordre": 40220
+  },
+  {
+    "Ligne": "22",
+    "Mode": "BUS",
+    "Numero": "22",
+    "Sens": "RET",
+    "Destination": "Gare de Vaise",
+    "TempsReel": true,
+    "Ordre": 40220
+  },
+  {
+    "Ligne": "23",
+    "Mode": "BUS",
+    "Numero": "23",
+    "Sens": "ALL",
+    "Destination": "Rocade des Monts d'Or",
+    "TempsReel": false,
+    "Ordre": 40230
+  },
+  {
+    "Ligne": "23",
+    "Mode": "BUS",
+    "Numero": "23",
+    "Sens": "RET",
+    "Destination": "Gare de Vaise",
+    "TempsReel": false,
+    "Ordre": 40230
+  },
+  {
+    "Ligne": "24",
+    "Mode": "BUS",
+    "Numero": "24",
+    "Sens": "ALL",
+    "Destination": "Sept Chemins",
+    "TempsReel": true,
+    "Ordre": 40240
+  },
+  {
+    "Ligne": "24",
+    "Mode": "BUS",
+    "Numero": "24",
+    "Sens": "RET",
+    "Destination": "Grange Blanche",
+    "TempsReel": true,
+    "Ordre": 40240
+  },
+  {
+    "Ligne": "25",
+    "Mode": "BUS",
+    "Numero": "25",
+    "Sens": "ALL",
+    "Destination": "Sept Chemins",
+    "TempsReel": true,
+    "Ordre": 40250
+  },
+  {
+    "Ligne": "25",
+    "Mode": "BUS",
+    "Numero": "25",
+    "Sens": "RET",
+    "Destination": "Gare Part-Dieu Vivier Merle",
+    "TempsReel": true,
+    "Ordre": 40250
+  },
+  {
+    "Ligne": "26",
+    "Mode": "BUS",
+    "Numero": "26",
+    "Sens": "ALL",
+    "Destination": "Manissieux Pierre Blanche",
+    "TempsReel": true,
+    "Ordre": 40260
+  },
+  {
+    "Ligne": "26",
+    "Mode": "BUS",
+    "Numero": "26",
+    "Sens": "RET",
+    "Destination": "Lycée Lumière",
+    "TempsReel": true,
+    "Ordre": 40260
+  },
+  {
+    "Ligne": "27",
+    "Mode": "BUS",
+    "Numero": "27",
+    "Sens": "ALL",
+    "Destination": "Villeurbanne Centre",
+    "TempsReel": true,
+    "Ordre": 40270
+  },
+  {
+    "Ligne": "27",
+    "Mode": "BUS",
+    "Numero": "27",
+    "Sens": "RET",
+    "Destination": "Vieux Lyon",
+    "TempsReel": true,
+    "Ordre": 40270
+  },
+  {
+    "Ligne": "28",
+    "Mode": "BUS",
+    "Numero": "28",
+    "Sens": "ALL",
+    "Destination": "Vaulx-en-Velin La Soie",
+    "TempsReel": false,
+    "Ordre": 40280
+  },
+  {
+    "Ligne": "28",
+    "Mode": "BUS",
+    "Numero": "28",
+    "Sens": "RET",
+    "Destination": "Meyzieu Z.i.",
+    "TempsReel": false,
+    "Ordre": 40280
+  },
+  {
+    "Ligne": "29",
+    "Mode": "BUS",
+    "Numero": "29",
+    "Sens": "ALL",
+    "Destination": "R.N.6 - A. Pare",
+    "TempsReel": false,
+    "Ordre": 40290
+  },
+  {
+    "Ligne": "29",
+    "Mode": "BUS",
+    "Numero": "29",
+    "Sens": "RET",
+    "Destination": "Meyzieu Z.i.",
+    "TempsReel": false,
+    "Ordre": 40290
+  },
+  {
+    "Ligne": "30",
+    "Mode": "BUS",
+    "Numero": "30",
+    "Sens": "ALL",
+    "Destination": "St Priest Jules Ferry",
+    "TempsReel": false,
+    "Ordre": 40300
+  },
+  {
+    "Ligne": "30",
+    "Mode": "BUS",
+    "Numero": "30",
+    "Sens": "RET",
+    "Destination": "St-Pierre-de-Chandieu - Rajat",
+    "TempsReel": false,
+    "Ordre": 40300
+  },
+  {
+    "Ligne": "31",
+    "Mode": "BUS",
+    "Numero": "31",
+    "Sens": "ALL",
+    "Destination": "Cite Edouard Herriot",
+    "TempsReel": true,
+    "Ordre": 40310
+  },
+  {
+    "Ligne": "31",
+    "Mode": "BUS",
+    "Numero": "31",
+    "Sens": "RET",
+    "Destination": "Perrache",
+    "TempsReel": true,
+    "Ordre": 40310
+  },
+  {
+    "Ligne": "32",
+    "Mode": "BUS",
+    "Numero": "32",
+    "Sens": "ALL",
+    "Destination": "Meyzieu Z.i.",
+    "TempsReel": false,
+    "Ordre": 40320
+  },
+  {
+    "Ligne": "32",
+    "Mode": "BUS",
+    "Numero": "32",
+    "Sens": "RET",
+    "Destination": "Hameau de Bianne",
+    "TempsReel": false,
+    "Ordre": 40320
+  },
+  {
+    "Ligne": "33",
+    "Mode": "BUS",
+    "Numero": "33",
+    "Sens": "ALL",
+    "Destination": "Rillieux - Les Alagniers",
+    "TempsReel": true,
+    "Ordre": 40330
+  },
+  {
+    "Ligne": "33",
+    "Mode": "BUS",
+    "Numero": "33",
+    "Sens": "RET",
+    "Destination": "Croix-Rousse",
+    "TempsReel": true,
+    "Ordre": 40330
+  },
+  {
+    "Ligne": "34",
+    "Mode": "BUS",
+    "Numero": "34",
+    "Sens": "ALL",
+    "Destination": "Grange Blanche",
+    "TempsReel": true,
+    "Ordre": 40340
+  },
+  {
+    "Ligne": "34",
+    "Mode": "BUS",
+    "Numero": "34",
+    "Sens": "RET",
+    "Destination": "Perrache",
+    "TempsReel": true,
+    "Ordre": 40340
+  },
+  {
+    "Ligne": "35",
+    "Mode": "BUS",
+    "Numero": "35",
+    "Sens": "ALL",
+    "Destination": "Venissieux Le Charreard",
+    "TempsReel": true,
+    "Ordre": 40350
+  },
+  {
+    "Ligne": "35",
+    "Mode": "BUS",
+    "Numero": "35",
+    "Sens": "RET",
+    "Destination": "Bellecour Charite",
+    "TempsReel": true,
+    "Ordre": 40350
+  },
+  {
+    "Ligne": "37",
+    "Mode": "BUS",
+    "Numero": "37",
+    "Sens": "ALL",
+    "Destination": "Vaulx-en-Velin  Marcel Cachin",
+    "TempsReel": true,
+    "Ordre": 40370
+  },
+  {
+    "Ligne": "37",
+    "Mode": "BUS",
+    "Numero": "37",
+    "Sens": "RET",
+    "Destination": "Charpennes",
+    "TempsReel": true,
+    "Ordre": 40370
+  },
+  {
+    "Ligne": "38",
+    "Mode": "BUS",
+    "Numero": "38",
+    "Sens": "ALL",
+    "Destination": "Caluire Place de la Bascule",
+    "TempsReel": true,
+    "Ordre": 40380
+  },
+  {
+    "Ligne": "38",
+    "Mode": "BUS",
+    "Numero": "38",
+    "Sens": "RET",
+    "Destination": "Gare Part-Dieu Vivier Merle",
+    "TempsReel": true,
+    "Ordre": 40380
+  },
+  {
+    "Ligne": "39",
+    "Mode": "BUS",
+    "Numero": "39",
+    "Sens": "ALL",
+    "Destination": "Solaize Mairie",
+    "TempsReel": true,
+    "Ordre": 40390
+  },
+  {
+    "Ligne": "39",
+    "Mode": "BUS",
+    "Numero": "39",
+    "Sens": "RET",
+    "Destination": "Parc de Parilly",
+    "TempsReel": true,
+    "Ordre": 40390
+  },
+  {
+    "Ligne": "40",
+    "Mode": "BUS",
+    "Numero": "40",
+    "Sens": "ALL",
+    "Destination": "Neuville",
+    "TempsReel": true,
+    "Ordre": 40400
+  },
+  {
+    "Ligne": "40",
+    "Mode": "BUS",
+    "Numero": "40",
+    "Sens": "RET",
+    "Destination": "Bellecour Le Viste",
+    "TempsReel": true,
+    "Ordre": 40400
+  },
+  {
+    "Ligne": "43",
+    "Mode": "BUS",
+    "Numero": "43",
+    "Sens": "ALL",
+    "Destination": "Genay Proulieu",
+    "TempsReel": true,
+    "Ordre": 40430
+  },
+  {
+    "Ligne": "43",
+    "Mode": "BUS",
+    "Numero": "43",
+    "Sens": "RET",
+    "Destination": "Gare de Vaise",
+    "TempsReel": true,
+    "Ordre": 40430
+  },
+  {
+    "Ligne": "45",
+    "Mode": "BUS",
+    "Numero": "45",
+    "Sens": "ALL",
+    "Destination": "Valdo",
+    "TempsReel": true,
+    "Ordre": 40450
+  },
+  {
+    "Ligne": "45",
+    "Mode": "BUS",
+    "Numero": "45",
+    "Sens": "RET",
+    "Destination": "Croix-Rousse",
+    "TempsReel": true,
+    "Ordre": 40450
+  },
+  {
+    "Ligne": "46",
+    "Mode": "BUS",
+    "Numero": "46",
+    "Sens": "ALL",
+    "Destination": "Boyer",
+    "TempsReel": true,
+    "Ordre": 40460
+  },
+  {
+    "Ligne": "46",
+    "Mode": "BUS",
+    "Numero": "46",
+    "Sens": "RET",
+    "Destination": "Perrache",
+    "TempsReel": true,
+    "Ordre": 40460
+  },
+  {
+    "Ligne": "47",
+    "Mode": "BUS",
+    "Numero": "47",
+    "Sens": "ALL",
+    "Destination": "Marechal Juin",
+    "TempsReel": false,
+    "Ordre": 40470
+  },
+  {
+    "Ligne": "47",
+    "Mode": "BUS",
+    "Numero": "47",
+    "Sens": "RET",
+    "Destination": "Meyzieu Z.i.",
+    "TempsReel": false,
+    "Ordre": 40470
+  },
+  {
+    "Ligne": "48",
+    "Mode": "BUS",
+    "Numero": "48",
+    "Sens": "ALL",
+    "Destination": "Aéroport St Exupéry",
+    "TempsReel": false,
+    "Ordre": 40480
+  },
+  {
+    "Ligne": "48",
+    "Mode": "BUS",
+    "Numero": "48",
+    "Sens": "RET",
+    "Destination": "Bornicat",
+    "TempsReel": false,
+    "Ordre": 40480
+  },
+  {
+    "Ligne": "49",
+    "Mode": "BUS",
+    "Numero": "49",
+    "Sens": "ALL",
+    "Destination": "Ste Foy Châtelain",
+    "TempsReel": true,
+    "Ordre": 40490
+  },
+  {
+    "Ligne": "49",
+    "Mode": "BUS",
+    "Numero": "49",
+    "Sens": "RET",
+    "Destination": "Perrache",
+    "TempsReel": true,
+    "Ordre": 40490
+  },
+  {
+    "Ligne": "50",
+    "Mode": "BUS",
+    "Numero": "50",
+    "Sens": "ALL",
+    "Destination": "La Fouillouse",
+    "TempsReel": true,
+    "Ordre": 40500
+  },
+  {
+    "Ligne": "50",
+    "Mode": "BUS",
+    "Numero": "50",
+    "Sens": "RET",
+    "Destination": "St Priest Hôtel de Ville",
+    "TempsReel": true,
+    "Ordre": 40500
+  },
+  {
+    "Ligne": "52",
+    "Mode": "BUS",
+    "Numero": "52",
+    "Sens": "ALL",
+    "Destination": "Parilly Universite Hippodrome",
+    "TempsReel": true,
+    "Ordre": 40520
+  },
+  {
+    "Ligne": "52",
+    "Mode": "BUS",
+    "Numero": "52",
+    "Sens": "RET",
+    "Destination": "Vaulx-en-Velin La Grappiniere",
+    "TempsReel": true,
+    "Ordre": 40520
+  },
+  {
+    "Ligne": "54",
+    "Mode": "BUS",
+    "Numero": "54",
+    "Sens": "ALL",
+    "Destination": "Corbas Les Taillis",
+    "TempsReel": true,
+    "Ordre": 40540
+  },
+  {
+    "Ligne": "54",
+    "Mode": "BUS",
+    "Numero": "54",
+    "Sens": "RET",
+    "Destination": "Gare de Vénissieux",
+    "TempsReel": true,
+    "Ordre": 40540
+  },
+  {
+    "Ligne": "55",
+    "Mode": "BUS",
+    "Numero": "55",
+    "Sens": "ALL",
+    "Destination": "Campus Lyon Ouest",
+    "TempsReel": true,
+    "Ordre": 40550
+  },
+  {
+    "Ligne": "55",
+    "Mode": "BUS",
+    "Numero": "55",
+    "Sens": "RET",
+    "Destination": "Perrache",
+    "TempsReel": true,
+    "Ordre": 40550
+  },
+  {
+    "Ligne": "57",
+    "Mode": "BUS",
+    "Numero": "57",
+    "Sens": "ALL",
+    "Destination": "Décines Grand Large",
+    "TempsReel": true,
+    "Ordre": 40570
+  },
+  {
+    "Ligne": "57",
+    "Mode": "BUS",
+    "Numero": "57",
+    "Sens": "RET",
+    "Destination": "Laurent Bonnevay",
+    "TempsReel": true,
+    "Ordre": 40570
+  },
+  {
+    "Ligne": "60",
+    "Mode": "BUS",
+    "Numero": "60",
+    "Sens": "ALL",
+    "Destination": "Feyzin Chateau de l'Isle",
+    "TempsReel": true,
+    "Ordre": 40600
+  },
+  {
+    "Ligne": "60",
+    "Mode": "BUS",
+    "Numero": "60",
+    "Sens": "RET",
+    "Destination": "Perrache",
+    "TempsReel": true,
+    "Ordre": 40600
+  },
+  {
+    "Ligne": "61",
+    "Mode": "BUS",
+    "Numero": "61",
+    "Sens": "ALL",
+    "Destination": "Lissieu - Montluzin",
+    "TempsReel": true,
+    "Ordre": 40610
+  },
+  {
+    "Ligne": "61",
+    "Mode": "BUS",
+    "Numero": "61",
+    "Sens": "RET",
+    "Destination": "Gare de Vaise",
+    "TempsReel": true,
+    "Ordre": 40610
+  },
+  {
+    "Ligne": "62",
+    "Mode": "BUS",
+    "Numero": "62",
+    "Sens": "ALL",
+    "Destination": "Mions Jules Valles",
+    "TempsReel": true,
+    "Ordre": 40620
+  },
+  {
+    "Ligne": "62",
+    "Mode": "BUS",
+    "Numero": "62",
+    "Sens": "RET",
+    "Destination": "Gare de Vénissieux",
+    "TempsReel": true,
+    "Ordre": 40620
+  },
+  {
+    "Ligne": "63",
+    "Mode": "BUS",
+    "Numero": "63",
+    "Sens": "ALL",
+    "Destination": "Oullins Le Golf",
+    "TempsReel": true,
+    "Ordre": 40630
+  },
+  {
+    "Ligne": "63",
+    "Mode": "BUS",
+    "Numero": "63",
+    "Sens": "RET",
+    "Destination": "Perrache",
+    "TempsReel": true,
+    "Ordre": 40630
+  },
+  {
+    "Ligne": "64",
+    "Mode": "BUS",
+    "Numero": "64",
+    "Sens": "ALL",
+    "Destination": "Saint Fons Semard",
+    "TempsReel": true,
+    "Ordre": 40640
+  },
+  {
+    "Ligne": "64",
+    "Mode": "BUS",
+    "Numero": "64",
+    "Sens": "RET",
+    "Destination": "Jean Macé",
+    "TempsReel": true,
+    "Ordre": 40640
+  },
+  {
+    "Ligne": "65",
+    "Mode": "BUS",
+    "Numero": "65",
+    "Sens": "ALL",
+    "Destination": "Charcot - La Source",
+    "TempsReel": true,
+    "Ordre": 40650
+  },
+  {
+    "Ligne": "65",
+    "Mode": "BUS",
+    "Numero": "65",
+    "Sens": "RET",
+    "Destination": "Gorge de Loup",
+    "TempsReel": true,
+    "Ordre": 40650
+  },
+  {
+    "Ligne": "66",
+    "Mode": "BUS",
+    "Numero": "66",
+    "Sens": "ALL",
+    "Destination": "Champagne Ecoles",
+    "TempsReel": true,
+    "Ordre": 40660
+  },
+  {
+    "Ligne": "66",
+    "Mode": "BUS",
+    "Numero": "66",
+    "Sens": "RET",
+    "Destination": "St Just",
+    "TempsReel": true,
+    "Ordre": 40660
+  },
+  {
+    "Ligne": "67",
+    "Mode": "BUS",
+    "Numero": "67",
+    "Sens": "ALL",
+    "Destination": "Meyzieu Av de Crottay",
+    "TempsReel": true,
+    "Ordre": 40670
+  },
+  {
+    "Ligne": "67",
+    "Mode": "BUS",
+    "Numero": "67",
+    "Sens": "RET",
+    "Destination": "Laurent Bonnevay",
+    "TempsReel": true,
+    "Ordre": 40670
+  },
+  {
+    "Ligne": "68",
+    "Mode": "BUS",
+    "Numero": "68",
+    "Sens": "ALL",
+    "Destination": "Les Grandes Terres",
+    "TempsReel": true,
+    "Ordre": 40680
+  },
+  {
+    "Ligne": "68",
+    "Mode": "BUS",
+    "Numero": "68",
+    "Sens": "RET",
+    "Destination": "Vaulx-en-Velin La Soie",
+    "TempsReel": true,
+    "Ordre": 40680
+  },
+  {
+    "Ligne": "69",
+    "Mode": "BUS",
+    "Numero": "69",
+    "Sens": "ALL",
+    "Destination": "Clinique du Tonkin",
+    "TempsReel": true,
+    "Ordre": 40690
+  },
+  {
+    "Ligne": "69",
+    "Mode": "BUS",
+    "Numero": "69",
+    "Sens": "RET",
+    "Destination": "Manufacture Montluc",
+    "TempsReel": true,
+    "Ordre": 40690
+  },
+  {
+    "Ligne": "70",
+    "Mode": "BUS",
+    "Numero": "70",
+    "Sens": "ALL",
+    "Destination": "Neuville",
+    "TempsReel": true,
+    "Ordre": 40700
+  },
+  {
+    "Ligne": "70",
+    "Mode": "BUS",
+    "Numero": "70",
+    "Sens": "RET",
+    "Destination": "Gare Part-Dieu Vivier Merle",
+    "TempsReel": true,
+    "Ordre": 40700
+  },
+  {
+    "Ligne": "71",
+    "Mode": "BUS",
+    "Numero": "71",
+    "Sens": "ALL",
+    "Destination": "Ecoles de Collonges",
+    "TempsReel": true,
+    "Ordre": 40710
+  },
+  {
+    "Ligne": "71",
+    "Mode": "BUS",
+    "Numero": "71",
+    "Sens": "RET",
+    "Destination": "Gare de Vaise",
+    "TempsReel": true,
+    "Ordre": 40710
+  },
+  {
+    "Ligne": "72",
+    "Mode": "BUS",
+    "Numero": "72",
+    "Sens": "ALL",
+    "Destination": "Val Fontaine",
+    "TempsReel": true,
+    "Ordre": 40720
+  },
+  {
+    "Ligne": "72",
+    "Mode": "BUS",
+    "Numero": "72",
+    "Sens": "RET",
+    "Destination": "Gorge de Loup",
+    "TempsReel": true,
+    "Ordre": 40720
+  },
+  {
+    "Ligne": "73E",
+    "Mode": "BUS",
+    "Numero": "73E",
+    "Sens": "ALL",
+    "Destination": "Brindas Centre",
+    "TempsReel": true,
+    "Ordre": 40721
+  },
+  {
+    "Ligne": "73E",
+    "Mode": "BUS",
+    "Numero": "73E",
+    "Sens": "RET",
+    "Destination": "Gorge de Loup",
+    "TempsReel": true,
+    "Ordre": 40721
+  },
+  {
+    "Ligne": "73",
+    "Mode": "BUS",
+    "Numero": "73",
+    "Sens": "ALL",
+    "Destination": "Brindas Centre",
+    "TempsReel": true,
+    "Ordre": 40730
+  },
+  {
+    "Ligne": "73",
+    "Mode": "BUS",
+    "Numero": "73",
+    "Sens": "RET",
+    "Destination": "Gorge de Loup",
+    "TempsReel": true,
+    "Ordre": 40730
+  },
+  {
+    "Ligne": "76",
+    "Mode": "BUS",
+    "Numero": "76",
+    "Sens": "ALL",
+    "Destination": "Décines Grand Large",
+    "TempsReel": true,
+    "Ordre": 40760
+  },
+  {
+    "Ligne": "76",
+    "Mode": "BUS",
+    "Numero": "76",
+    "Sens": "RET",
+    "Destination": "Corbas Les Balmes",
+    "TempsReel": true,
+    "Ordre": 40760
+  },
+  {
+    "Ligne": "77",
+    "Mode": "BUS",
+    "Numero": "77",
+    "Sens": "ALL",
+    "Destination": "Pont de Fontaines",
+    "TempsReel": true,
+    "Ordre": 40770
+  },
+  {
+    "Ligne": "77",
+    "Mode": "BUS",
+    "Numero": "77",
+    "Sens": "RET",
+    "Destination": "Montessuy Gutenberg",
+    "TempsReel": true,
+    "Ordre": 40770
+  },
+  {
+    "Ligne": "78",
+    "Mode": "BUS",
+    "Numero": "78",
+    "Sens": "ALL",
+    "Destination": "Gare de Givors Ville",
+    "TempsReel": true,
+    "Ordre": 40780
+  },
+  {
+    "Ligne": "78",
+    "Mode": "BUS",
+    "Numero": "78",
+    "Sens": "RET",
+    "Destination": "Gare d'Oullins",
+    "TempsReel": true,
+    "Ordre": 40780
+  },
+  {
+    "Ligne": "79",
+    "Mode": "BUS",
+    "Numero": "79",
+    "Sens": "ALL",
+    "Destination": "Décines Grand Large",
+    "TempsReel": true,
+    "Ordre": 40790
+  },
+  {
+    "Ligne": "79",
+    "Mode": "BUS",
+    "Numero": "79",
+    "Sens": "RET",
+    "Destination": "La Borelle",
+    "TempsReel": true,
+    "Ordre": 40790
+  },
+  {
+    "Ligne": "80",
+    "Mode": "BUS",
+    "Numero": "80",
+    "Sens": "ALL",
+    "Destination": "Givors Vallee du Gier",
+    "TempsReel": true,
+    "Ordre": 40800
+  },
+  {
+    "Ligne": "80",
+    "Mode": "BUS",
+    "Numero": "80",
+    "Sens": "RET",
+    "Destination": "Grigny La Colombe",
+    "TempsReel": true,
+    "Ordre": 40800
+  },
+  {
+    "Ligne": "81",
+    "Mode": "BUS",
+    "Numero": "81",
+    "Sens": "ALL",
+    "Destination": "College Paul Vallon",
+    "TempsReel": true,
+    "Ordre": 40810
+  },
+  {
+    "Ligne": "81",
+    "Mode": "BUS",
+    "Numero": "81",
+    "Sens": "RET",
+    "Destination": "Plateau de Montrond",
+    "TempsReel": true,
+    "Ordre": 40810
+  },
+  {
+    "Ligne": "83",
+    "Mode": "BUS",
+    "Numero": "83",
+    "Sens": "ALL",
+    "Destination": "Grand Parc Miribel Jonage",
+    "TempsReel": true,
+    "Ordre": 40830
+  },
+  {
+    "Ligne": "83",
+    "Mode": "BUS",
+    "Numero": "83",
+    "Sens": "RET",
+    "Destination": "Vaulx-en-Velin La Soie",
+    "TempsReel": true,
+    "Ordre": 40830
+  },
+  {
+    "Ligne": "84",
+    "Mode": "BUS",
+    "Numero": "84",
+    "Sens": "ALL",
+    "Destination": "Neuville",
+    "TempsReel": false,
+    "Ordre": 40840
+  },
+  {
+    "Ligne": "84",
+    "Mode": "BUS",
+    "Numero": "84",
+    "Sens": "RET",
+    "Destination": "Gare de Vaise",
+    "TempsReel": false,
+    "Ordre": 40840
+  },
+  {
+    "Ligne": "85",
+    "Mode": "BUS",
+    "Numero": "85",
+    "Sens": "ALL",
+    "Destination": "Meyzieu Gadelles",
+    "TempsReel": true,
+    "Ordre": 40850
+  },
+  {
+    "Ligne": "85",
+    "Mode": "BUS",
+    "Numero": "85",
+    "Sens": "RET",
+    "Destination": "Décines Grand Large",
+    "TempsReel": true,
+    "Ordre": 40850
+  },
+  {
+    "Ligne": "86",
+    "Mode": "BUS",
+    "Numero": "86",
+    "Sens": "ALL",
+    "Destination": "La Tour de Salvagny Chambettes",
+    "TempsReel": false,
+    "Ordre": 40860
+  },
+  {
+    "Ligne": "86",
+    "Mode": "BUS",
+    "Numero": "86",
+    "Sens": "RET",
+    "Destination": "Gorge de Loup",
+    "TempsReel": false,
+    "Ordre": 40860
+  },
+  {
+    "Ligne": "87",
+    "Mode": "BUS",
+    "Numero": "87",
+    "Sens": "ALL",
+    "Destination": "Mions Bourdelle",
+    "TempsReel": true,
+    "Ordre": 40870
+  },
+  {
+    "Ligne": "87",
+    "Mode": "BUS",
+    "Numero": "87",
+    "Sens": "RET",
+    "Destination": "Gare de Vénissieux",
+    "TempsReel": true,
+    "Ordre": 40870
+  },
+  {
+    "Ligne": "88",
+    "Mode": "BUS",
+    "Numero": "88",
+    "Sens": "ALL",
+    "Destination": "St Genis Gadagne",
+    "TempsReel": true,
+    "Ordre": 40880
+  },
+  {
+    "Ligne": "88",
+    "Mode": "BUS",
+    "Numero": "88",
+    "Sens": "RET",
+    "Destination": "Gare d'Oullins",
+    "TempsReel": true,
+    "Ordre": 40880
+  },
+  {
+    "Ligne": "89",
+    "Mode": "BUS",
+    "Numero": "89",
+    "Sens": "ALL",
+    "Destination": "Porte de Lyon",
+    "TempsReel": true,
+    "Ordre": 40890
+  },
+  {
+    "Ligne": "89",
+    "Mode": "BUS",
+    "Numero": "89",
+    "Sens": "RET",
+    "Destination": "Gare de Vaise",
+    "TempsReel": true,
+    "Ordre": 40890
+  },
+  {
+    "Ligne": "89D",
+    "Mode": "BUS",
+    "Numero": "89D",
+    "Sens": "ALL",
+    "Destination": "Porte de Lyon",
+    "TempsReel": true,
+    "Ordre": 40891
+  },
+  {
+    "Ligne": "89D",
+    "Mode": "BUS",
+    "Numero": "89D",
+    "Sens": "RET",
+    "Destination": "Gare de Vaise",
+    "TempsReel": true,
+    "Ordre": 40891
+  },
+  {
+    "Ligne": "90",
+    "Mode": "BUS",
+    "Numero": "90",
+    "Sens": "ALL",
+    "Destination": "Ste Foy Châtelain",
+    "TempsReel": true,
+    "Ordre": 40900
+  },
+  {
+    "Ligne": "90",
+    "Mode": "BUS",
+    "Numero": "90",
+    "Sens": "RET",
+    "Destination": "Valmy - Place Ferber",
+    "TempsReel": true,
+    "Ordre": 40900
+  },
+  {
+    "Ligne": "93",
+    "Mode": "BUS",
+    "Numero": "93",
+    "Sens": "ALL",
+    "Destination": "Parc Technologique",
+    "TempsReel": true,
+    "Ordre": 40930
+  },
+  {
+    "Ligne": "93",
+    "Mode": "BUS",
+    "Numero": "93",
+    "Sens": "RET",
+    "Destination": "Hopital Feyzin Venissieux",
+    "TempsReel": true,
+    "Ordre": 40930
+  },
+  {
+    "Ligne": "95",
+    "Mode": "BUS",
+    "Numero": "95",
+    "Sens": "ALL",
+    "Destination": "Jonage Chateau des Marres",
+    "TempsReel": true,
+    "Ordre": 40950
+  },
+  {
+    "Ligne": "95",
+    "Mode": "BUS",
+    "Numero": "95",
+    "Sens": "RET",
+    "Destination": "Meyzieu - Parc du Grand Large",
+    "TempsReel": true,
+    "Ordre": 40950
+  },
+  {
+    "Ligne": "96",
+    "Mode": "BUS",
+    "Numero": "96",
+    "Sens": "ALL",
+    "Destination": "Quincieux Boulodrome",
+    "TempsReel": false,
+    "Ordre": 40960
+  },
+  {
+    "Ligne": "96",
+    "Mode": "BUS",
+    "Numero": "96",
+    "Sens": "RET",
+    "Destination": "Neuville",
+    "TempsReel": false,
+    "Ordre": 40960
+  },
+  {
+    "Ligne": "97",
+    "Mode": "BUS",
+    "Numero": "97",
+    "Sens": "ALL",
+    "Destination": "Neuville",
+    "TempsReel": false,
+    "Ordre": 40970
+  },
+  {
+    "Ligne": "97",
+    "Mode": "BUS",
+    "Numero": "97",
+    "Sens": "RET",
+    "Destination": "Montanay Les Dimes",
+    "TempsReel": false,
+    "Ordre": 40970
+  },
+  {
+    "Ligne": "98",
+    "Mode": "BUS",
+    "Numero": "98",
+    "Sens": "ALL",
+    "Destination": "Marcy Campus Sanofi",
+    "TempsReel": true,
+    "Ordre": 40980
+  },
+  {
+    "Ligne": "98",
+    "Mode": "BUS",
+    "Numero": "98",
+    "Sens": "RET",
+    "Destination": "Gorge de Loup",
+    "TempsReel": true,
+    "Ordre": 40980
+  },
+  {
+    "Ligne": "98E",
+    "Mode": "BUS",
+    "Numero": "98E",
+    "Sens": "ALL",
+    "Destination": "Marcy Campus Sanofi",
+    "TempsReel": true,
+    "Ordre": 40981
+  },
+  {
+    "Ligne": "98E",
+    "Mode": "BUS",
+    "Numero": "98E",
+    "Sens": "RET",
+    "Destination": "Gorge de Loup",
+    "TempsReel": true,
+    "Ordre": 40981
+  },
+  {
+    "Ligne": "111",
+    "Mode": "BUS",
+    "Numero": "111",
+    "Sens": "ALL",
+    "Destination": "Jacques Prevert",
+    "TempsReel": false,
+    "Ordre": 41110
+  },
+  {
+    "Ligne": "111",
+    "Mode": "BUS",
+    "Numero": "111",
+    "Sens": "RET",
+    "Destination": "Parilly",
+    "TempsReel": false,
+    "Ordre": 41110
+  },
+  {
+    "Ligne": "112",
+    "Mode": "BUS",
+    "Numero": "112",
+    "Sens": "ALL",
+    "Destination": "Corbas Rue du Midi",
+    "TempsReel": false,
+    "Ordre": 41120
+  },
+  {
+    "Ligne": "112",
+    "Mode": "BUS",
+    "Numero": "112",
+    "Sens": "RET",
+    "Destination": "Parilly",
+    "TempsReel": false,
+    "Ordre": 41120
+  },
+  {
+    "Ligne": "115",
+    "Mode": "BUS",
+    "Numero": "115",
+    "Sens": "ALL",
+    "Destination": "Lissieu Centre Mairie",
+    "TempsReel": false,
+    "Ordre": 41150
+  },
+  {
+    "Ligne": "115",
+    "Mode": "BUS",
+    "Numero": "115",
+    "Sens": "RET",
+    "Destination": "Gare de Vaise",
+    "TempsReel": false,
+    "Ordre": 41150
+  },
+  {
+    "Ligne": "118",
+    "Mode": "BUS",
+    "Numero": "118",
+    "Sens": "ALL",
+    "Destination": "Bois Dieu",
+    "TempsReel": false,
+    "Ordre": 41180
+  },
+  {
+    "Ligne": "118",
+    "Mode": "BUS",
+    "Numero": "118",
+    "Sens": "RET",
+    "Destination": "Gare de Vaise",
+    "TempsReel": false,
+    "Ordre": 41180
+  },
+  {
+    "Ligne": "142",
+    "Mode": "BUS",
+    "Numero": "142",
+    "Sens": "ALL",
+    "Destination": "Ecole Veterinaire",
+    "TempsReel": false,
+    "Ordre": 41420
+  },
+  {
+    "Ligne": "142",
+    "Mode": "BUS",
+    "Numero": "142",
+    "Sens": "RET",
+    "Destination": "Gorge de Loup",
+    "TempsReel": false,
+    "Ordre": 41420
+  },
+  {
+    "Ligne": "171",
+    "Mode": "BUS",
+    "Numero": "171",
+    "Sens": "ALL",
+    "Destination": "Crepieux Les Brosses",
+    "TempsReel": false,
+    "Ordre": 41710
+  },
+  {
+    "Ligne": "171",
+    "Mode": "BUS",
+    "Numero": "171",
+    "Sens": "RET",
+    "Destination": "Pont Guillotiere RD",
+    "TempsReel": false,
+    "Ordre": 41710
+  },
+  {
+    "Ligne": "1EX",
+    "Mode": "BUS",
+    "Numero": "1EX",
+    "Sens": "ALL",
+    "Destination": "Grange Blanche",
+    "TempsReel": false,
+    "Ordre": 43001
+  },
+  {
+    "Ligne": "1EX",
+    "Mode": "BUS",
+    "Numero": "1EX",
+    "Sens": "RET",
+    "Destination": "Colombier-Saugnieu Les Salines",
+    "TempsReel": false,
+    "Ordre": 43001
+  },
+  {
+    "Ligne": "2EX",
+    "Mode": "BUS",
+    "Numero": "2EX",
+    "Sens": "ALL",
+    "Destination": "Le Pont",
+    "TempsReel": false,
+    "Ordre": 43002
+  },
+  {
+    "Ligne": "2EX",
+    "Mode": "BUS",
+    "Numero": "2EX",
+    "Sens": "RET",
+    "Destination": "Gorge de Loup",
+    "TempsReel": false,
+    "Ordre": 43002
+  },
+  {
+    "Ligne": "S1",
+    "Mode": "BUS",
+    "Numero": "S1",
+    "Sens": "ALL",
+    "Destination": "Gare Saint-Paul",
+    "TempsReel": true,
+    "Ordre": 51001
+  },
+  {
+    "Ligne": "S1",
+    "Mode": "BUS",
+    "Numero": "S1",
+    "Sens": "RET",
+    "Destination": "Confluence Rambaud",
+    "TempsReel": true,
+    "Ordre": 51001
+  },
+  {
+    "Ligne": "S2",
+    "Mode": "BUS",
+    "Numero": "S2",
+    "Sens": "ALL",
+    "Destination": "La Tour de Salvagny Mairie",
+    "TempsReel": false,
+    "Ordre": 51002
+  },
+  {
+    "Ligne": "S3",
+    "Mode": "BUS",
+    "Numero": "S3",
+    "Sens": "ALL",
+    "Destination": "Collonges Gare",
+    "TempsReel": false,
+    "Ordre": 51003
+  },
+  {
+    "Ligne": "S3",
+    "Mode": "BUS",
+    "Numero": "S3",
+    "Sens": "RET",
+    "Destination": "Allee des Hetres",
+    "TempsReel": false,
+    "Ordre": 51003
+  },
+  {
+    "Ligne": "S4",
+    "Mode": "BUS",
+    "Numero": "S4",
+    "Sens": "ALL",
+    "Destination": "Henon - Deleuvre",
+    "TempsReel": true,
+    "Ordre": 51004
+  },
+  {
+    "Ligne": "S4",
+    "Mode": "BUS",
+    "Numero": "S4",
+    "Sens": "RET",
+    "Destination": "Croix-Rousse",
+    "TempsReel": true,
+    "Ordre": 51004
+  },
+  {
+    "Ligne": "S5",
+    "Mode": "BUS",
+    "Numero": "S5",
+    "Sens": "ALL",
+    "Destination": "Vieux Crepieux",
+    "TempsReel": false,
+    "Ordre": 51005
+  },
+  {
+    "Ligne": "S5",
+    "Mode": "BUS",
+    "Numero": "S5",
+    "Sens": "RET",
+    "Destination": "Caluire - Bords de Saone",
+    "TempsReel": false,
+    "Ordre": 51005
+  },
+  {
+    "Ligne": "S6",
+    "Mode": "BUS",
+    "Numero": "S6",
+    "Sens": "ALL",
+    "Destination": "Croix-Rousse",
+    "TempsReel": true,
+    "Ordre": 51006
+  },
+  {
+    "Ligne": "S6",
+    "Mode": "BUS",
+    "Numero": "S6",
+    "Sens": "RET",
+    "Destination": "Hôtel de Ville - Louis Pradel",
+    "TempsReel": true,
+    "Ordre": 51006
+  },
+  {
+    "Ligne": "S7",
+    "Mode": "BUS",
+    "Numero": "S7",
+    "Sens": "ALL",
+    "Destination": "La Chaux Ecole de Champlong",
+    "TempsReel": false,
+    "Ordre": 51007
+  },
+  {
+    "Ligne": "S8",
+    "Mode": "BUS",
+    "Numero": "S8",
+    "Sens": "ALL",
+    "Destination": "Rillieux Victor Hugo",
+    "TempsReel": false,
+    "Ordre": 51008
+  },
+  {
+    "Ligne": "S8",
+    "Mode": "BUS",
+    "Numero": "S8",
+    "Sens": "RET",
+    "Destination": "La Buissiere Viralamande",
+    "TempsReel": false,
+    "Ordre": 51008
+  },
+  {
+    "Ligne": "S9",
+    "Mode": "BUS",
+    "Numero": "S9",
+    "Sens": "ALL",
+    "Destination": "Moly",
+    "TempsReel": true,
+    "Ordre": 51009
+  },
+  {
+    "Ligne": "S9",
+    "Mode": "BUS",
+    "Numero": "S9",
+    "Sens": "RET",
+    "Destination": "Jean Giono",
+    "TempsReel": true,
+    "Ordre": 51009
+  },
+  {
+    "Ligne": "S10",
+    "Mode": "BUS",
+    "Numero": "S10",
+    "Sens": "ALL",
+    "Destination": "Lycee Jean Perrin",
+    "TempsReel": false,
+    "Ordre": 51010
+  },
+  {
+    "Ligne": "S10",
+    "Mode": "BUS",
+    "Numero": "S10",
+    "Sens": "RET",
+    "Destination": "Joannes Carret",
+    "TempsReel": false,
+    "Ordre": 51010
+  },
+  {
+    "Ligne": "S11",
+    "Mode": "BUS",
+    "Numero": "S11",
+    "Sens": "ALL",
+    "Destination": "Le Chateau Duchere",
+    "TempsReel": true,
+    "Ordre": 51011
+  },
+  {
+    "Ligne": "S11",
+    "Mode": "BUS",
+    "Numero": "S11",
+    "Sens": "RET",
+    "Destination": "Gare de Vaise",
+    "TempsReel": true,
+    "Ordre": 51011
+  },
+  {
+    "Ligne": "S12",
+    "Mode": "BUS",
+    "Numero": "S12",
+    "Sens": "ALL",
+    "Destination": "Croix-Rousse",
+    "TempsReel": true,
+    "Ordre": 51012
+  },
+  {
+    "Ligne": "S12",
+    "Mode": "BUS",
+    "Numero": "S12",
+    "Sens": "RET",
+    "Destination": "Hôtel de Ville - Louis Pradel",
+    "TempsReel": true,
+    "Ordre": 51012
+  },
+  {
+    "Ligne": "S14",
+    "Mode": "BUS",
+    "Numero": "S14",
+    "Sens": "ALL",
+    "Destination": "Neuville",
+    "TempsReel": false,
+    "Ordre": 51014
+  },
+  {
+    "Ligne": "S15",
+    "Mode": "BUS",
+    "Numero": "S15",
+    "Sens": "ALL",
+    "Destination": "Les Sources",
+    "TempsReel": true,
+    "Ordre": 51015
+  },
+  {
+    "Ligne": "S15",
+    "Mode": "BUS",
+    "Numero": "S15",
+    "Sens": "RET",
+    "Destination": "Ecully Le Trouillat",
+    "TempsReel": true,
+    "Ordre": 51015
+  },
+  {
+    "Ligne": "S16",
+    "Mode": "BUS",
+    "Numero": "S16",
+    "Sens": "ALL",
+    "Destination": "Collonges Gare",
+    "TempsReel": false,
+    "Ordre": 51016
+  },
+  {
+    "Ligne": "S16",
+    "Mode": "BUS",
+    "Numero": "S16",
+    "Sens": "RET",
+    "Destination": "Ecully Le Perollier",
+    "TempsReel": false,
+    "Ordre": 51016
+  },
+  {
+    "Ligne": "ZI1",
+    "Mode": "BUS",
+    "Numero": "ZI1",
+    "Sens": "ALL",
+    "Destination": "St Priest Gare",
+    "TempsReel": true,
+    "Ordre": 52001
+  },
+  {
+    "Ligne": "ZI1",
+    "Mode": "BUS",
+    "Numero": "ZI1",
+    "Sens": "RET",
+    "Destination": "Gare de Vénissieux",
+    "TempsReel": true,
+    "Ordre": 52001
+  },
+  {
+    "Ligne": "ZI2",
+    "Mode": "BUS",
+    "Numero": "ZI2",
+    "Sens": "ALL",
+    "Destination": "Z.I. Nord",
+    "TempsReel": true,
+    "Ordre": 52002
+  },
+  {
+    "Ligne": "ZI2",
+    "Mode": "BUS",
+    "Numero": "ZI2",
+    "Sens": "RET",
+    "Destination": "Meyzieu Z.i.",
+    "TempsReel": true,
+    "Ordre": 52002
+  },
+  {
+    "Ligne": "ZI3",
+    "Mode": "BUS",
+    "Numero": "ZI3",
+    "Sens": "ALL",
+    "Destination": "Z.I. Vaulx-en-Velin Est",
+    "TempsReel": true,
+    "Ordre": 52003
+  },
+  {
+    "Ligne": "ZI3",
+    "Mode": "BUS",
+    "Numero": "ZI3",
+    "Sens": "RET",
+    "Destination": "Vaulx-en-Velin La Soie",
+    "TempsReel": true,
+    "Ordre": 52003
+  },
+  {
+    "Ligne": "ZI4",
+    "Mode": "BUS",
+    "Numero": "ZI4",
+    "Sens": "ALL",
+    "Destination": "Caluire Chemin Petit",
+    "TempsReel": true,
+    "Ordre": 52004
+  },
+  {
+    "Ligne": "ZI4",
+    "Mode": "BUS",
+    "Numero": "ZI4",
+    "Sens": "RET",
+    "Destination": "Vaulx-en-Velin La Soie",
+    "TempsReel": true,
+    "Ordre": 52004
+  },
+  {
+    "Ligne": "ZI5",
+    "Mode": "BUS",
+    "Numero": "ZI5",
+    "Sens": "ALL",
+    "Destination": "Rond-Point d'Italie",
+    "TempsReel": false,
+    "Ordre": 52005
+  },
+  {
+    "Ligne": "ZI5",
+    "Mode": "BUS",
+    "Numero": "ZI5",
+    "Sens": "RET",
+    "Destination": "Vaulx-en-Velin La Soie",
+    "TempsReel": false,
+    "Ordre": 52005
+  },
+  {
+    "Ligne": "ZI6",
+    "Mode": "BUS",
+    "Numero": "ZI6",
+    "Sens": "ALL",
+    "Destination": "St Fons Semard",
+    "TempsReel": true,
+    "Ordre": 52006
+  },
+  {
+    "Ligne": "ZI6",
+    "Mode": "BUS",
+    "Numero": "ZI6",
+    "Sens": "RET",
+    "Destination": "Jean Macé",
+    "TempsReel": true,
+    "Ordre": 52006
+  },
+  {
+    "Ligne": "ZI7",
+    "Mode": "BUS",
+    "Numero": "ZI7",
+    "Sens": "ALL",
+    "Destination": "Bron Droits de l'Homme",
+    "TempsReel": true,
+    "Ordre": 52007
+  },
+  {
+    "Ligne": "ZI7",
+    "Mode": "BUS",
+    "Numero": "ZI7",
+    "Sens": "RET",
+    "Destination": "Vaulx-en-Velin La Soie",
+    "TempsReel": true,
+    "Ordre": 52007
+  },
+  {
+    "Ligne": "ZI8",
+    "Mode": "BUS",
+    "Numero": "ZI8",
+    "Sens": "ALL",
+    "Destination": "La Fouillouse Acacias",
+    "TempsReel": true,
+    "Ordre": 52008
+  },
+  {
+    "Ligne": "ZI8",
+    "Mode": "BUS",
+    "Numero": "ZI8",
+    "Sens": "RET",
+    "Destination": "Esplanade des Arts",
+    "TempsReel": true,
+    "Ordre": 52008
+  },
+  {
+    "Ligne": "GE2",
+    "Mode": "BUS",
+    "Numero": "GE2",
+    "Sens": "ALL",
+    "Destination": "Solaize CRES",
+    "TempsReel": false,
+    "Ordre": 53002
+  },
+  {
+    "Ligne": "GE2",
+    "Mode": "BUS",
+    "Numero": "GE2",
+    "Sens": "RET",
+    "Destination": "Feyzin Gare",
+    "TempsReel": false,
+    "Ordre": 53002
+  },
+  {
+    "Ligne": "GE6",
+    "Mode": "BUS",
+    "Numero": "GE6",
+    "Sens": "ALL",
+    "Destination": "Charbonnieres Gare",
+    "TempsReel": false,
+    "Ordre": 53006
+  }
+]

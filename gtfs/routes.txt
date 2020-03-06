@@ -1,0 +1,609 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_color
+ZI1Aa1,1,"ZI1","Gare de Venissieux --> St Priest Gare",REG - LZI - NOR - UTA,3,00FFFF
+ZI1Ar4,1,"ZI1","St Priest Gare --> Gare de Venissieux.",REG - LZI - NOR - UTA,3,00FFFF
+ZI1Ar2,1,"ZI1","St Priest Gare --> Gare de Venissieux.",REG - LZI - NOR - UTA,3,00FFFF
+ZI2Aa1,1,"ZI2","Meyzieu Z.i. --> Z.I. Nord",REG - LZI - ZI - UTS,3,00FFFF
+ZI2Ar2,1,"ZI2","Z.I. Nord --> Meyzieu Z.i.",REG - LZI - ZI - UTS,3,00FFFF
+ZI2Aa3,1,"ZI2","Meyzieu Z.i. --> Z.I. Sud",REG - LZI - ZI - UTS,3,00FFFF
+ZI2Ar4,1,"ZI2","Z.I. Sud --> Meyzieu Z.i.",REG - LZI - ZI - UTS,3,00FFFF
+ZI3Ar6,1,"ZI3","Cite Tase --> Vaulx-en-Velin La Soie",REG - LZI - ZI - UTS,3,00FFFF
+ZI3Aa3,1,"ZI3","Vaulx-en-Velin La Soie --> Z.I. Roosevelt",REG - LZI - ZI - UTS,3,00FFFF
+ZI3Ar4,1,"ZI3","Z.I. Roosevelt --> Vaulx-en-Velin La Soie",REG - LZI - ZI - UTS,3,00FFFF
+ZI3Aa1,1,"ZI3","Vaulx-en-Velin La Soie --> Z.I. Vaulx-en-Velin Est",REG - LZI - ZI - UTS,3,00FFFF
+ZI3Ar2,1,"ZI3","Z.I. Vaulx-en-Velin Est --> Vaulx-en-Velin La Soie",REG - LZI - ZI - UTS,3,00FFFF
+ZI3Aa5,1,"ZI3","Vaulx-en-Velin La Soie --> Cite Tase",REG - LZI - ZI - UTS,3,00FFFF
+ZI4Aa1,1,"ZI4","Vaulx-en-Velin La Soie --> Caluire Chemin Petit",REG - LZI - ZI - UTS,3,00FFFF
+ZI4Ar2,1,"ZI4","Caluire Chemin Petit --> Vaulx-en-Velin La Soie",REG - LZI - ZI - UTS,3,00FFFF
+ZI5Ba1,1,"ZI5","Vaulx-en-Velin La Soie --> Rond-Point d'Italie",REG - LZI - NOR - UTS,3,00FFFF
+ZI5Br2,1,"ZI5","Rond-Point d'Italie --> Vaulx-en-Velin La Soie",REG - LZI - NOR - UTS,3,00FFFF
+ZI7Aa1,1,"ZI7","Vaulx-en-Velin La Soie --> Bron Droits de l'Homme",REG - LZI - NOR - UTS,3,00FFFF
+ZI7Ar2,1,"ZI7","Bron Droits de l'Homme --> Vaulx-en-Velin La Soie",REG - LZI - NOR - UTS,3,00FFFF
+ZI8Ar4,1,"ZI8","Parc des Lumieres --> St-Priest Jules Ferry",REG - LZI - ZI - UTA,3,00FFFF
+ZI8Aa3,1,"ZI8","St-Priest Jules Ferry --> Parc des Lumieres 1",REG - LZI - ZI - UTA,3,00FFFF
+ZI8Ar2,1,"ZI8","Parc des Lumieres 1 --> St-Priest Jules Ferry",REG - LZI - ZI - UTA,3,00FFFF
+ZI8Aa1,1,"ZI8","St-Priest Jules Ferry --> Parc des Lumieres.",REG - LZI - ZI - UTA,3,00FFFF
+ZI8Ar6,1,"ZI8","La Fouillouse Acacias --> Esplanade des Arts",REG - LZI - ZI - UTA,3,00FFFF
+ZI8Aa5,1,"ZI8","Esplanade des Arts --> La Fouillouse Acacias",REG - LZI - ZI - UTA,3,00FFFF
+GE2Ar4,1,"GE2","Solaize CRES --> Feyzin Gare",REG - GEX - ZI - UTA,3,00FFFF
+GE2Aa1,1,"GE2","Feyzin Gare --> Solaize CRES",REG - GEX - ZI - UTA,3,00FFFF
+GE4Aa1,1,"GE4","La Tour de Salvagny Gare --> Techlid Le Tronchon",TAD - GEX - ZI - UTV,3,00FFFF
+GE4Ar2,1,"GE4","Techlid Le Tronchon --> La Tour de Salvagny Gare",TAD - GEX - ZI - UTV,3,00FFFF
+GE6Aa1,1,"GE6","Charbonnieres Gare --> Charbonnieres Gare",REG - GEX - ZI - UTV,3,00FFFF
+R2Aa1,1,"R2","Chantemerle --> Neuville",TAD - RES - NOR - UTV,3,00FFFF
+R2Ar2,1,"R2","Neuville --> Chantemerle",TAD - RES - NOR - UTV,3,00FFFF
+R3Aa3,1,"R3","Givors Hotel de Ville --> La Rama",TAD - RES - NOR - UTG,3,00FFFF
+R3Ar4,1,"R3","La Rama --> Givors Hotel de Ville",TAD - RES - NOR - UTG,3,00FFFF
+R3Ar2,1,"R3","Cimetiere de Givors --> Givors Hotel de Ville",TAD - RES - NOR - UTG,3,00FFFF
+R3Aa1,1,"R3","Givors Hotel de Ville --> Cimetiere de Givors",TAD - RES - NOR - UTG,3,00FFFF
+PL1Aa1,1,"PL1","Terreaux La Feuillee --> La Doua - INSA",REG - PLU - NUI - UTN,3,00FFFF
+PL1Ar2,1,"PL1","Cite Internationale - Quai CDG --> Terreaux La Feuillee",REG - PLU - NUI - UTN,3,00FFFF
+PL2Aa1,1,"PL2","Hotel de Ville - L. Pradel --> Grange Blanche",REG - PLU - NUI - UTP,3,00FFFF
+PL3Aa1,1,"PL3","Hotel de Ville - L. Pradel --> Pontet Crases",REG - PLU - NUI - UTV,3,00FFFF
+PL4Aa1,1,"PL4","Hotel de Ville - L. Pradel --> Saint-Priest Salengro",REG - PLU - NUI - UTA,3,00FFFF
+S10Ar2,1,"S10","Lycee Jean Perrin --> Joannes Carret",REG - PRO - NAV - UTV,3,00FFFF
+S10Aa1,1,"S10","Joannes Carret --> Lycee Jean Perrin",REG - PRO - NAV - UTV,3,00FFFF
+S11Ar2,1,"S11","Le Chateau Duchere --> Gare de Vaise",REG - PRO - NAV - UTV,3,00FFFF
+S11Aa1,1,"S11","Gare de Vaise --> Le Chateau Duchere",REG - PRO - NAV - UTV,3,00FFFF
+S12Ar2,1,"S12","Croix-Rousse --> Hotel de Ville - L. Pradel",REG - PRO - NAV - UTC,3,00FFFF
+S12Aa1,1,"S12","Hotel de Ville - L. Pradel --> Croix-Rousse.",REG - PRO - NAV - UTC,3,00FFFF
+S14Aa3,1,"S14","Neuville --> Neuville",REG - PRO - NAV - UTV,3,00FFFF
+S14Aa5,1,"S14","Neuville --> Neuville.",REG - PRO - NAV - UTV,3,00FFFF
+S14Aa1,1,"S14","Neuville --> Neuville..",REG - PRO - NAV - UTV,3,00FFFF
+S15Ar2,1,"S15","Les Sources --> Ecully Le Trouillat",REG - PRO - NAV - UTV,3,00FFFF
+S15Aa1,1,"S15","Ecully Le Trouillat --> Les Sources",REG - PRO - NAV - UTV,3,00FFFF
+S16Aa1,1,"S16","Ecully Le Perollier --> Collonges Gare",REG - PRS - NAV - UTV,3,00FFFF
+S16Ar2,1,"S16","Collonges Gare --> Ecully Le Perollier",REG - PRS - NAV - UTV,3,00FFFF
+S1Aa1,1,"S1","Confluence Rambaud --> Gare Saint-Paul.",REG - PRO - NAV - UTPE,3,00FFFF
+S1Ar2,1,"S1","Gare Saint-Paul --> Confluence Rambaud",REG - PRO - NAV - UTPE,3,00FFFF
+S1Ar10,1,"S1","Gare Saint-Paul --> Confluence Rambaud..",REG - PRO - NAV - UTPE,3,00FFFF
+S2Aa1,1,"S2","La Tour de Salvagny Mairie --> La Tour de Salvagny Mairie",REG - PRO - NAV - UTV,3,00FFFF
+S3Br2,1,"S3","Collonges Gare --> Allee des Hetres",REG - PRS - NAV - UTV,3,00FFFF
+S3Ba1,1,"S3","Allee des Hetres --> Collonges Gare",REG - PRS - NAV - UTV,3,00FFFF
+S3Br4,1,"S3","L'Etang --> Allee des Hetres",REG - PRS - NAV - UTV,3,00FFFF
+S3Ba3,1,"S3","Rocade des Monts d'Or --> Collonges Gare",REG - PRS - NAV - UTV,3,00FFFF
+S4Aa1,1,"S4","Croix-Rousse --> Henon - Deleuvre.",REG - PRO - NAV - UTC,3,00FFFF
+S4Ar2,1,"S4","Henon - Deleuvre --> Croix-Rousse.",REG - PRO - NAV - UTC,3,00FFFF
+S5Aa7,1,"S5","Caluire - Bords de Saone --> Vieux Crepieux",REG - PRO - NOR - UTC,3,00FFFF
+S5Ar8,1,"S5","Vieux Crepieux --> Caluire - Bords de Saone",REG - PRO - NOR - UTC,3,00FFFF
+S5Ar4,1,"S5","Cuire --> Caluire - Bords de Saone.",REG - PRO - NOR - UTC,3,00FFFF
+S5Aa3,1,"S5","Caluire - Bords de Saone --> Cuire.",REG - PRO - NOR - UTC,3,00FFFF
+S6Ar2,1,"S6","Croix-Rousse --> Hotel de Ville - L. Pradel",REG - PRO - NAV - UTC,3,00FFFF
+S6Aa1,1,"S6","Hotel de Ville - L. Pradel --> Croix-Rousse",REG - PRO - NAV - UTC,3,00FFFF
+S7Aa1,1,"S7","La Chaux Ecole de Champlong --> La Chaux Ecole de Champlong",REG - PRO - NAV - UTV,3,00FFFF
+S8Ar4,1,"S8","Rillieux Victor Hugo --> Crepieux Les Brosses",REG - PRO - NAV - UTN,3,00FFFF
+S8Aa3,1,"S8","Crepieux Les Brosses --> Rillieux Victor Hugo",REG - PRO - NAV - UTN,3,00FFFF
+S8Aa1,1,"S8","La Buissiere Viralamande --> Rillieux Victor Hugo",REG - PRO - NAV - UTN,3,00FFFF
+S8Ar2,1,"S8","Rillieux Victor Hugo --> La Buissiere Viralamande",REG - PRO - NAV - UTN,3,00FFFF
+S9Aa7,1,"S9","Jean Giono --> Moly",REG - PRO - NOR - UTO,3,00FFFF
+S9Ar6,1,"S9","Moly --> Jean Giono",REG - PRO - NOR - UTO,3,00FFFF
+S9Aa5,1,"S9","Jean Giono --> Moly.",REG - PRO - NOR - UTO,3,00FFFF
+S9Ar4,1,"S9","Moly --> Jean Giono.",REG - PRO - NOR - UTO,3,00FFFF
+S9Ar8,1,"S9","Moly --> Jean Giono..",REG - PRO - NOR - UTO,3,00FFFF
+S9Aa3,1,"S9","Jean Giono --> Moly..",REG - PRO - NOR - UTO,3,00FFFF
+S9Ar2,1,"S9","Moly --> Jean Giono...",REG - PRO - NOR - UTO,3,00FFFF
+S9Aa1,1,"S9","Jean Giono --> Moly...",REG - PRO - NOR - UTO,3,00FFFF
+11Ba1,1,"11","Gare d'Oullins --> Thurins Mairie",REG - PRO - NOR - UTO,3,00FFFF
+11Br2,1,"11","Thurins Mairie --> Gare d'Oullins",REG - PRO - NOR - UTO,3,00FFFF
+12Ba1,1,"12","Gare d'Oullins --> St-Genis 2",REG - PRO - NOR - UTO,3,00FFFF
+12Br2,1,"12","St-Genis 2 --> Gare d'Oullins",REG - PRO - NOR - UTO,3,00FFFF
+14Ba1,1,"14","Gare d'Oullins --> Gorge de Loup",REG - LCO - NOR - UTO,3,00FFFF
+14Br2,1,"14","Gorge de Loup --> Gare d'Oullins",REG - LCO - NOR - UTO,3,00FFFF
+15Da1,1,"15","Bellecour Charite --> Irigny Hauts de Selettes",REG - LCO - NOR - UTO,3,00FFFF
+15Da3,1,"15","Bellecour Charite --> Vernaison  Place",REG - LCO - NOR - UTO,3,00FFFF
+15Dr8,1,"15","Irigny Hauts de Selettes --> Bellecour Charite",REG - LCO - NOR - UTO,3,00FFFF
+15Da7,1,"15","Bellecour Charite --> Irigny Hauts de Selettes.",REG - LCO - NOR - UTO,3,00FFFF
+15Dr2,1,"15","Irigny Hauts de Selettes --> Bellecour Charite.",REG - LCO - NOR - UTO,3,00FFFF
+15Ea1,1,"15E","Bellecour Charite --> Vernaison  Place",REG - LCO - EXP - ,3,00FFFF
+15Er6,1,"15E","Vernaison  Place --> Les Gaupieres",REG - LCO - EXP - ,3,00FFFF
+15Er2,1,"15E","Vernaison  Place --> Bellecour Charite",REG - LCO - EXP - ,3,00FFFF
+16Ar2,1,"16","Decines Grand Large --> Vaulx-en-Velin La Soie",REG - LCO - NOR - UTS,3,00FFFF
+16Aa1,1,"16","Vaulx-en-Velin La Soie --> Decines Grand Large",REG - LCO - NOR - UTS,3,00FFFF
+17Ba7,1,"17","Gare d'Oullins --> St-Genis Lycee Descartes",REG - LCO - NOR - UTO,3,00FFFF
+17Ba1,1,"17","Ste-Foy Place Saint Luc --> St-Genis 2",REG - LCO - NOR - UTO,3,00FFFF
+17Br2,1,"17","St-Genis 2 --> Ste-Foy Place Saint Luc",REG - LCO - NOR - UTO,3,00FFFF
+17Br4,1,"17","St-Genis Lycee Descartes --> Ste-Foy Place Saint Luc",REG - LCO - NOR - UTO,3,00FFFF
+17Ba11,1,"17","Gare d'Oullins --> St-Genis 2",REG - LCO - NOR - UTO,3,00FFFF
+17Ba5,1,"17","Ste-Foy Place Saint Luc --> St-Genis Lycee Descartes",REG - LCO - NOR - UTO,3,00FFFF
+17Ba3,1,"17","Ste-Foy Place Saint Luc --> St-Genis Lycee Descartes.",REG - LCO - NOR - UTO,3,00FFFF
+18Br14,1,"18","Vernaison  Place --> Les Gaupieres",REG - LCO - NOR - UTO,3,00FFFF
+18Ba11,1,"18","Gare d'Oullins --> Vernaison  Place",REG - LCO - NOR - UTO,3,00FFFF
+18Br12,1,"18","Vernaison  Place --> Gare d'Oullins",REG - LCO - NOR - UTO,3,00FFFF
+19Aa1,1,"19","Hotel de Ville - L. Pradel --> Ecully Le Perollier",REG - LCO - NOR - UTV,3,00FFFF
+19Ar2,1,"19","Ecully Le Perollier --> Hotel de Ville - L. Pradel",REG - LCO - NOR - UTV,3,00FFFF
+1EXa1,1,"1E","Colombier-Saugnieu Les Salines --> Grange Blanche",REG - CAF - NOR - UTP,3,00FFFF
+1EXa3,1,"1E","Les Marches du Rhone --> Grange Blanche",REG - CAF - NOR - UTP,3,00FFFF
+1EXr2,1,"1E","Grange Blanche --> Colombier-Saugnieu Les Salines",REG - CAF - NOR - UTP,3,00FFFF
+1EXr6,1,"1E","Grange Blanche --> Colombier-Saugnieu Les Salines.",REG - CAF - NOR - UTP,3,00FFFF
+1EXr4,1,"1E","Grange Blanche --> Les Marches du Rhone",REG - CAF - NOR - UTP,3,00FFFF
+1EXa5,1,"1E","Colombier-Saugnieu Les Salines --> Grange Blanche.",REG - CAF - NOR - UTP,3,00FFFF
+20Ar4,1,"20","Lycee Jean Perrin --> Gare de Vaise",REG - LCO - NOR - UTV,3,00FFFF
+20Aa7,1,"20","Gare de Vaise --> St Fortunat",REG - LCO - NOR - UTV,3,00FFFF
+20Ar8,1,"20","St Fortunat --> Gare de Vaise",REG - LCO - NOR - UTV,3,00FFFF
+20Aa1,1,"20","Gare de Vaise --> St Cyr",REG - LCO - NOR - UTV,3,00FFFF
+20Aa3,1,"20","Gare de Vaise --> Lycee Jean Perrin",REG - LCO - NOR - UTV,3,00FFFF
+20Ar2,1,"20","St Cyr --> Gare de Vaise",REG - LCO - NOR - UTV,3,00FFFF
+21Aa17,1,"21","Gare de Vaise --> St Germain Gare",REG - LCO - NOR - UTV,3,00FFFF
+21Ar18,1,"21","St Germain Gare --> Gare de Vaise",REG - LCO - NOR - UTV,3,00FFFF
+21Ar10,1,"21","Limonest Cimetiere --> Gare de Vaise",REG - LCO - NOR - UTV,3,00FFFF
+21Ar2,1,"21","Limonest Cimetiere --> Gare de Vaise.",REG - LCO - NOR - UTV,3,00FFFF
+21Ar4,1,"21","Limonest Cimetiere --> Gare de Vaise..",REG - LCO - NOR - UTV,3,00FFFF
+21Aa1,1,"21","Gare de Vaise --> Limonest Cimetiere",REG - LCO - NOR - UTV,3,00FFFF
+21Aa3,1,"21","Gare de Vaise --> Limonest Cimetiere.",REG - LCO - NOR - UTV,3,00FFFF
+21Aa9,1,"21","Gare de Vaise --> Limonest Cimetiere..",REG - LCO - NOR - UTV,3,00FFFF
+21Aa15,1,"21","Gare de Vaise --> St Germain Gare.",REG - LCO - NOR - UTV,3,00FFFF
+21Ar16,1,"21","St Germain Gare --> Gare de Vaise.",REG - LCO - NOR - UTV,3,00FFFF
+22Aa1,1,"22","Gare de Vaise --> St Fortunat",REG - LCO - NOR - UTV,3,00FFFF
+22Ar2,1,"22","St Fortunat --> Gare de Vaise",REG - LCO - NOR - UTV,3,00FFFF
+23Aa1,1,"23","Gare de Vaise --> Rocade des Monts d'Or",REG - LCO - NOR - UTV,3,00FFFF
+23Ar2,1,"23","Rocade des Monts d'Or --> Gare de Vaise",REG - LCO - NOR - UTV,3,00FFFF
+24Ar2,1,"24","Sept Chemins --> Grange Blanche",REG - PRO - NOR - UTP,3,00FFFF
+24Aa1,1,"24","Grange Blanche --> Sept Chemins.",REG - PRO - NOR - UTP,3,00FFFF
+25Ar12,1,"25","Sept Chemins --> Gare Part-Dieu Vivier Merle..",REG - LCO - NOR - UTP,3,00FFFF
+25Aa11,1,"25","Gare Part-Dieu Vivier Merle --> Sept Chemins.",REG - LCO - NOR - UTP,3,00FFFF
+26Aa1,1,"26","Lycee Lumiere --> Manissieux Pierre Blanche",REG - LCO - NOR - UTP,3,00FFFF
+26Ar2,1,"26","Manissieux Pierre Blanche --> Lycee Lumiere",REG - LCO - NOR - UTP,3,00FFFF
+27Aa1,1,"27","Vieux Lyon --> Villeurbanne Centre",REG - LCO - NOR - UTN,3,00FFFF
+27Ar2,1,"27","Villeurbanne Centre --> Vieux Lyon",REG - LCO - NOR - UTN,3,00FFFF
+28Aa1,1,"28","Meyzieu Z.i. --> Vaulx-en-Velin La Soie",REG - CAF - NOR - UTS,3,00FFFF
+28Ar2,1,"28","Vaulx-en-Velin La Soie --> Meyzieu Z.i.",REG - CAF - NOR - UTS,3,00FFFF
+29Ar14,1,"29","R.N.6 - A. Pare --> Meyzieu Z.i.",REG - CAF - NOR - UTS,3,00FFFF
+29Aa13,1,"29","Meyzieu Z.i. --> R.N.6 - A. Pare",REG - CAF - NOR - UTS,3,00FFFF
+2Ar6,1,"2","Gare de Vaise --> Croix-Rousse",REG - LCO - NOR - UTV,3,00FFFF
+2Ar4,1,"2","Plateaux de St Rambert --> Gare de Vaise",REG - LCO - NOR - UTV,3,00FFFF
+2Aa3,1,"2","Gare de Vaise --> Plateaux de St Rambert",REG - LCO - NOR - UTV,3,00FFFF
+2Ar2,1,"2","Plateaux de St Rambert --> Croix-Rousse.",REG - LCO - NOR - UTV,3,00FFFF
+2Aa1,1,"2","Croix-Rousse --> Plateaux de St Rambert",REG - LCO - NOR - UTV,3,00FFFF
+2EXr2,1,"2EX","Le Pont --> Gorge de Loup",REG - CAF - EXP - UTPE,3,00FFFF
+2EXa1,1,"2EX","Gorge de Loup --> Le Pont",REG - CAF - EXP - UTPE,3,00FFFF
+30Ba3,1,"30","Toussieu Les Tilleuls --> St-Priest Jules Ferry",REG - PRA - NOR - UTA,3,00FFFF
+30Br6,1,"30","St-Priest Jules Ferry --> St-Pierre-de-Chandieu - Rajat",REG - PRA - NOR - UTA,3,00FFFF
+30Br2,1,"30","St-Priest Jules Ferry --> St-Pierre-de-Chandieu - Rajat.",REG - PRA - NOR - UTA,3,00FFFF
+30Ba5,1,"30","Z.I. Ampere - Chandieu --> St-Priest Jules Ferry",REG - PRA - NOR - UTA,3,00FFFF
+30Br4,1,"30","St-Priest Jules Ferry --> Z.I. Ampere - Chandieu",REG - PRA - NOR - UTA,3,00FFFF
+30Ba1,1,"30","St-Pierre-de-Chandieu - Rajat --> St-Priest Jules Ferry",REG - PRA - NOR - UTA,3,00FFFF
+31Aa17,1,"31","Gare de Vaise --> Plasson et Chaize.",REG - LCO - NOR - UTV,3,00FFFF
+31Aa13,1,"31","Perrache --> Cite Edouard Herriot..",REG - LCO - NOR - UTV,3,00FFFF
+31Ar14,1,"31","Cite Edouard Herriot --> Perrache.",REG - LCO - NOR - UTV,3,00FFFF
+31Aa15,1,"31","Gare de Vaise --> Cite Edouard Herriot.",REG - LCO - NOR - UTV,3,00FFFF
+31Ar16,1,"31","Cite Edouard Herriot --> Gare de Vaise.",REG - LCO - NOR - UTV,3,00FFFF
+32Aa1,1,"32","Hameau de Bianne --> Meyzieu Z.i.",REG - LCO - NOR - UTS,3,00FFFF
+32Ar2,1,"32","Meyzieu Z.i. --> Hameau de Bianne",REG - LCO - NOR - UTS,3,00FFFF
+32Aa3,1,"32","Hameau de Bianne --> Meyzieu Z.i..",REG - LCO - NOR - UTS,3,00FFFF
+32Ar4,1,"32","Meyzieu Z.i. --> Hameau de Bianne.",REG - LCO - NOR - UTS,3,00FFFF
+33Aa1,1,"33","Croix-Rousse --> Rillieux - Les Alagniers",REG - LCO - NOR - UTC,3,00FFFF
+33Ar2,1,"33","Rillieux - Les Alagniers --> Croix-Rousse",REG - LCO - NOR - UTC,3,00FFFF
+33Ar8,1,"33","Marronniers --> Croix-Rousse",REG - LCO - NOR - UTC,3,00FFFF
+34Ar2,1,"34","Grange Blanche --> Perrache",REG - LCO - NOR - UTA,3,00FFFF
+34Aa1,1,"34","Perrache --> Grange Blanche",REG - LCO - NOR - UTA,3,00FFFF
+35Ar2,1,"35","Venissieux Le Charreard --> Bellecour Charite",REG - LCO - NOR - UTA,3,00FFFF
+35Aa1,1,"35","Bellecour Charite --> Venissieux Le Charreard",REG - LCO - NOR - UTA,3,00FFFF
+35Ar6,1,"35","Venissieux Le Charreard --> Bellecour Charite.",REG - LCO - NOR - UTA,3,00FFFF
+35Aa5,1,"35","Bellecour Charite --> Venissieux Le Charreard.",REG - LCO - NOR - UTA,3,00FFFF
+37Aa1,1,"37","Charpennes Charles Hernu --> Vaulx-en-Velin  Marcel Cachin",REG - LCO - NOR - UTS,3,00FFFF
+37Aa5,1,"37","Place Wilson --> Vaulx-en-Velin  Marcel Cachin",REG - LCO - NOR - UTS,3,00FFFF
+37Aa3,1,"37","Charpennes Charles Hernu --> Vaulx-en-Velin  Marcel Cachin.",REG - LCO - NOR - UTS,3,00FFFF
+37Ar4,1,"37","Vaulx-en-Velin  Marcel Cachin --> Charpennes Charles  Hernu",REG - LCO - NOR - UTS,3,00FFFF
+37Ar2,1,"37","Vaulx-en-Velin  Marcel Cachin --> Charpennes Charles  Hernu.",REG - LCO - NOR - UTS,3,00FFFF
+37Aa11,1,"37","Charpennes Charles Hernu --> Vaulx-en-Velin  Marcel Cachin..",REG - LCO - NOR - UTS,3,00FFFF
+37Ar102,1,"37","Vaulx-en-Velin  Marcel Cachin --> Charpennes Charles  Hernu...",REG - LCO - NOR - UTS,3,00FFFF
+37Ar112,1,"37","Vaulx-en-Velin  Marcel Cachin --> Charpennes Charles  Hernu...",REG - LCO - NOR - UTS,3,00FFFF
+38Ar2,1,"38","Caluire Place de la Bascule --> Gare Part-Dieu Vivier Merle.",REG - LCO - NOR - UTN,3,00FFFF
+38Aa1,1,"38","Gare Part-Dieu Vivier Merle --> Caluire Place de la Bascule..",REG - LCO - NOR - UTN,3,00FFFF
+39Aa3,1,"39","Parc de Parilly --> Le Relais",REG - LCO - NOR - UTA,3,00FFFF
+39Aa1,1,"39","Parc de Parilly --> Solaize Mairie",REG - LCO - NOR - UTA,3,00FFFF
+39Aa6,1,"39","Bellecombe --> Solaize Mairie",REG - LCO - NOR - UTA,3,00FFFF
+39Ar2,1,"39","Solaize Mairie --> Parc de Parilly",REG - LCO - NOR - UTA,3,00FFFF
+3Aa13,1,"3","Gorge de Loup --> Porte de Lyon",REG - LCO - NOR - UTV,3,00FFFF
+3Aa1,1,"3","Gorge de Loup --> Dardilly Le Jubin.",REG - LCO - NOR - UTV,3,00FFFF
+3Ar2,1,"3","Dardilly Le Jubin --> Gorge de Loup..",REG - LCO - NOR - UTV,3,00FFFF
+3Ar4,1,"3","Limonest Le Puy d'Or --> Gorge de Loup.",REG - LCO - NOR - UTV,3,00FFFF
+3Aa3,1,"3","Gorge de Loup --> Limonest Le Puy d'Or.",REG - LCO - NOR - UTV,3,00FFFF
+3Aa5,1,"3","Gorge de Loup --> Porte de Lyon...",REG - LCO - NOR - UTV,3,00FFFF
+3Ar6,1,"3","Porte de Lyon --> Gorge de Loup",REG - LCO - NOR - UTV,3,00FFFF
+40Ar14,1,"40","Pont Masaryk --> Bellecour Le Viste",REG - LCO - NOR - UTV,3,00FFFF
+40Aa13,1,"40","Rue d'Ypres --> Neuville",REG - LCO - NOR - UTV,3,00FFFF
+40Aa1,1,"40","Bellecour Le Viste --> Neuville.",REG - LCO - NOR - UTV,3,00FFFF
+40Ar2,1,"40","Neuville (direction Lyon) --> Bellecour Le Viste.",REG - LCO - NOR - UTV,3,00FFFF
+43Aa7,1,"43","Gare de Vaise --> Genay Proulieu",REG - LCO - NOR - UTV,3,00FFFF
+43Ar8,1,"43","Genay Proulieu --> Gare de Vaise...",REG - LCO - NOR - UTV,3,00FFFF
+43Ar14,1,"43","Genay Proulieu --> Gare de Vaise...",REG - LCO - NOR - UTV,3,00FFFF
+43Aa13,1,"43","Gare de Vaise --> Genay Proulieu...",REG - LCO - NOR - UTV,3,00FFFF
+43Ar10,1,"43","St Romain Centre --> Gare de Vaise.",REG - LCO - NOR - UTV,3,00FFFF
+43Aa9,1,"43","Gare de Vaise --> St Romain Centre.",REG - LCO - NOR - UTV,3,00FFFF
+45Ar2,1,"45","Valdo --> Croix-Rousse",REG - LCO - NOR - UTV,3,00FFFF
+45Aa1,1,"45","Croix-Rousse --> Valdo",REG - LCO - NOR - UTV,3,00FFFF
+45Ar4,1,"45","Pont Mouton --> Croix-Rousse",REG - LCO - NOR - UTV,3,00FFFF
+46Ar2,1,"46","Boyer --> Perrache",REG - LCO - NOR - UTPE,3,00FFFF
+46Aa3,1,"46","Perrache --> Sainte-Foy Chatelain",REG - LCO - NOR - UTPE,3,00FFFF
+46Ar4,1,"46","Sainte-Foy Chatelain --> Perrache",REG - LCO - NOR - UTPE,3,00FFFF
+46Aa1,1,"46","Perrache --> Boyer",REG - LCO - NOR - UTPE,3,00FFFF
+47Aa1,1,"47","Meyzieu Z.i. --> Marechal Juin",REG - CAF - NOR - UTS,3,00FFFF
+47Aa3,1,"47","Meyzieu Z.i. --> Marechal Juin.",REG - CAF - NOR - UTS,3,00FFFF
+47Ar4,1,"47","Marechal Juin --> Meyzieu Z.i.",REG - CAF - NOR - UTS,3,00FFFF
+47Ar2,1,"47","Marechal Juin --> Meyzieu Z.i..",REG - CAF - NOR - UTS,3,00FFFF
+47Ar104,1,"47","Marechal Juin --> Meyzieu Z.i...",REG - CAF - NOR - UTS,3,00FFFF
+47Aa103,1,"47","Meyzieu Z.i. --> Marechal Juin..",REG - CAF - NOR - UTS,3,00FFFF
+47Ar102,1,"47","Marechal Juin --> Meyzieu Z.i....",REG - CAF - NOR - UTS,3,00FFFF
+47Aa101,1,"47","Meyzieu Z.i. --> Marechal Juin...",REG - CAF - NOR - UTS,3,00FFFF
+48Br2,1,"48","Aerop. St Ex. - Gare Routiere --> Bornicat",REG - CAF - NOR - UTS,3,00FFFF
+48Ba1,1,"48","Bornicat --> Aerop. St Ex. - Gare Routiere",REG - CAF - NOR - UTS,3,00FFFF
+49Aa1,1,"49","Perrache --> Sainte-Foy Chatelain",REG - LCO - NOR - UTPE,3,00FFFF
+49Ar2,1,"49","Sainte-Foy Chatelain --> Perrache",REG - LCO - NOR - UTPE,3,00FFFF
+4Ar2,1,"4","Campus Lyon Ouest --> Gare de Vaise",REG - LCO - NOR - UTV,3,00FFFF
+4Aa1,1,"4","Gare de Vaise --> Campus Lyon Ouest",REG - LCO - NOR - UTV,3,00FFFF
+50Ar2,1,"50","La Fouillouse --> St Priest Hotel de Ville",REG - LCO - NOR - UTA,3,00FFFF
+50Ar4,1,"50","La Fouillouse Acacias --> St Priest Hotel de Ville",REG - LCO - NOR - UTA,3,00FFFF
+50Aa1,1,"50","St Priest Hotel de Ville --> La Fouillouse",REG - LCO - NOR - UTA,3,00FFFF
+50Aa3,1,"50","St Priest Hotel de Ville --> La Fouillouse Acacias",REG - LCO - NOR - UTA,3,00FFFF
+52Ar4,1,"52","Sept Chemins --> Vaulx-en-Velin La Grappiniere",REG - LCO - NOR - UTS,3,00FFFF
+52Aa1,1,"52","Vaulx-en-Velin La Grappiniere --> Parilly Universite Hippodrome",REG - LCO - NOR - UTS,3,00FFFF
+52Ar2,1,"52","Parilly Universite Hippodrome --> Vaulx-en-Velin La Grappiniere",REG - LCO - NOR - UTS,3,00FFFF
+52Aa3,1,"52","Vaulx-en-Velin La Grappiniere --> Sept Chemins",REG - LCO - NOR - UTS,3,00FFFF
+54Ar2,1,"54","Corbas Les Taillis --> Gare de Venissieux",REG - LCO - NOR - UTA,3,00FFFF
+54Aa1,1,"54","Gare de Venissieux --> Corbas Les Taillis",REG - LCO - NOR - UTA,3,00FFFF
+54Aa3,1,"54","Gare de Venissieux --> Corbas Les Taillis.",REG - LCO - NOR - UTA,3,00FFFF
+54Ar4,1,"54","Corbas Les Taillis --> Gare de Venissieux.",REG - LCO - NOR - UTA,3,00FFFF
+55Aa3,1,"55","Perrache --> Campus Lyon Ouest",REG - LCO - NOR - UTV,3,00FFFF
+55Ar4,1,"55","Campus Lyon Ouest --> Perrache",REG - LCO - NOR - UTV,3,00FFFF
+55Aa1,1,"55","Perrache --> Campus Lyon Ouest.",REG - LCO - NOR - UTV,3,00FFFF
+55Ar2,1,"55","Campus Lyon Ouest --> Perrache.",REG - LCO - NOR - UTV,3,00FFFF
+57Aa3,1,"57","Laurent Bonnevay --> Decines Grand Large",REG - LCO - NOR - UTS,3,00FFFF
+57Ar2,1,"57","Vaulx-en-Velin  Marcel Cachin --> Laurent Bonnevay",REG - LCO - NOR - UTS,3,00FFFF
+57Aa1,1,"57","Laurent Bonnevay --> Vaulx-en-Velin  Marcel Cachin",REG - LCO - NOR - UTS,3,00FFFF
+57Ar4,1,"57","Decines Grand Large --> Laurent Bonnevay",REG - LCO - NOR - UTS,3,00FFFF
+5Ar2,1,"5","Charbonnieres Les Verrieres --> Pont Mouton.",REG - LCO - NOR - UTV,3,00FFFF
+5Aa1,1,"5","Pont Mouton --> Charbonnieres Les Verrieres",REG - LCO - NOR - UTV,3,00FFFF
+60Ar2,1,"60","Feyzin Les Razes --> Perrache",REG - LCO - NOR - UTA,3,00FFFF
+60Aa1,1,"60","Perrache --> Feyzin Les Razes",REG - LCO - NOR - UTA,3,00FFFF
+60Ar4,1,"60","Feyzin Les Razes --> Perrache.",REG - LCO - NOR - UTA,3,00FFFF
+60Aa3,1,"60","Perrache --> Feyzin Les Razes.",REG - LCO - NOR - UTA,3,00FFFF
+60Aa5,1,"60","Perrache --> Feyzin Chateau de l'Isle.",REG - LCO - NOR - UTA,3,00FFFF
+60Ar6,1,"60","Feyzin Chateau de l'Isle --> Perrache.",REG - LCO - NOR - UTA,3,00FFFF
+61Br2,1,"61","Lissieu - Montluzin --> Gare de Vaise.",REG - PRO - NOR - UTV,3,00FFFF
+61Ba1,1,"61","Gare de Vaise --> Lissieu - Montluzin.",REG - PRO - NOR - UTV,3,00FFFF
+62Ar4,1,"62","Mions Jules Valles --> Gare de Venissieux",REG - LCO - NOR - UTA,3,00FFFF
+62Ar2,1,"62","Mions Jules Valles --> Gare de Venissieux.",REG - LCO - NOR - UTA,3,00FFFF
+62Aa1,1,"62","Gare de Venissieux. --> Mions Jules Valles",REG - LCO - NOR - UTA,3,00FFFF
+62Aa3,1,"62","St Priest Hotel de Ville --> Mions Jules Valles",REG - LCO - NOR - UTA,3,00FFFF
+63Ar2,1,"63","Oullins Le Golf --> Perrache.",REG - LCO - NOR - UTO,3,00FFFF
+63Aa1,1,"63","Perrache --> Oullins Le Golf..",REG - LCO - NOR - UTO,3,00FFFF
+64Aa1,1,"64","Jean Mace --> St Fons Semard",REG - LCO - NOR - UTA,3,00FFFF
+64Ar6,1,"64","St Fons Semard --> Jean Mace",REG - LCO - NOR - UTA,3,00FFFF
+64Ar8,1,"64","Belle Etoile --> Jean Mace",REG - LCO - NOR - UTA,3,00FFFF
+64Aa3,1,"64","Jean Mace --> Belle Etoile",REG - LCO - NOR - UTA,3,00FFFF
+64Ar2,1,"64","St Fons Semard --> Jean Mace.",REG - LCO - NOR - UTA,3,00FFFF
+64Ar4,1,"64","Belle Etoile --> Jean Mace.",REG - LCO - NOR - UTA,3,00FFFF
+65Aa3,1,"65","Gorge de Loup --> Charcot - La Source",REG - LCO - EXP - UTV,3,00FFFF
+65Ar2,1,"65","Charcot - La Source --> Gorge de Loup",REG - LCO - EXP - UTV,3,00FFFF
+65Aa1,1,"65","Gorge de Loup --> Charcot - La Source.",REG - LCO - EXP - UTV,3,00FFFF
+65Ar4,1,"65","Charcot - La Source --> Gorge de Loup.",REG - LCO - EXP - UTV,3,00FFFF
+66Ar2,1,"66","Champagne Ecoles --> St Just",REG - LCO - NOR - UTV,3,00FFFF
+66Aa1,1,"66","St Just --> Champagne Ecoles",REG - LCO - NOR - UTV,3,00FFFF
+67Ar36,1,"67","Meyzieu Plantees --> Meyzieu Le Carreau",REG - LCO - NOR - UTS,3,00FFFF
+67Ar34,1,"67","Meyzieu Av de Crottay --> Meyzieu Le Carreau",REG - LCO - NOR - UTS,3,00FFFF
+67Ar28,1,"67","Decines Esplanade --> Laurent Bonnevay",REG - LCO - NOR - UTS,3,00FFFF
+67Aa27,1,"67","Laurent Bonnevay --> Decines Esplanade",REG - LCO - NOR - UTS,3,00FFFF
+67Aa1,1,"67","Laurent Bonnevay --> Meyzieu Av de Crottay",REG - LCO - NOR - UTS,3,00FFFF
+67Aa3,1,"67","Laurent Bonnevay --> Meyzieu Plantees",REG - LCO - NOR - UTS,3,00FFFF
+67Ar4,1,"67","Meyzieu Plantees --> Laurent Bonnevay.",REG - LCO - NOR - UTS,3,00FFFF
+67Aa23,1,"67","Meyzieu Le Carreau --> Meyzieu Av de Crottay",REG - LCO - NOR - UTS,3,00FFFF
+67Aa25,1,"67","Meyzieu Le Carreau --> Meyzieu Plantees",REG - LCO - NOR - UTS,3,00FFFF
+67Ar2,1,"67","Meyzieu Av de Crottay --> Laurent Bonnevay.",REG - LCO - NOR - UTS,3,00FFFF
+68Br10,1,"68","Les Grandes Terres --> Vaulx-en-Velin La Soie",REG - LCO - NOR - UTS,3,00FFFF
+68Ba1,1,"68","Vaulx-en-Velin La Soie --> Les Grandes Terres",REG - LCO - NOR - UTS,3,00FFFF
+68Br2,1,"68","Les Grandes Terres --> Vaulx-en-Velin La Soie.",REG - LCO - NOR - UTS,3,00FFFF
+69Aa3,1,"69","Manufacture Montluc --> College du Tonkin",REG - LCO - NOR - UTP,3,00FFFF
+69Aa5,1,"69","Manufacture Montluc --> College du Tonkin.",REG - LCO - NOR - UTP,3,00FFFF
+69Ar6,1,"69","College du Tonkin --> Manufacture Montluc..",REG - LCO - NOR - UTP,3,00FFFF
+69Aa1,1,"69","Manufacture Montluc --> College du Tonkin..",REG - LCO - NOR - UTP,3,00FFFF
+69Ar2,1,"69","College du Tonkin --> Manufacture Montluc...",REG - LCO - NOR - UTP,3,00FFFF
+6Aa1,1,"6","Gare de Vaise --> Techlid Le Paisy",REG - LCO - EXP - UTV,3,00FFFF
+6Ar2,1,"6","Techlid Le Paisy --> Gare de Vaise",REG - LCO - EXP - UTV,3,00FFFF
+70Aa1,1,"70","Gare Part-Dieu Vivier Merle --> Neuville",REG - LCO - NOR - UTN,3,00FFFF
+70Ar2,1,"70","Neuville (direction Lyon) --> Gare Part-Dieu Vivier Merle",REG - LCO - NOR - UTN,3,00FFFF
+71Aa1,1,"71","Gare de Vaise --> Ecoles de Collonges",REG - LCO - NOR - UTV,3,00FFFF
+71Ar2,1,"71","Ecoles de Collonges --> Gare de Vaise",REG - LCO - NOR - UTV,3,00FFFF
+72Ca5,1,"72","Gorge de Loup --> Val Fontaine",REG - LCO - NOR - UTV,3,00FFFF
+72Cr8,1,"72","Marcy l'Etoile --> Gorge de Loup",REG - LCO - NOR - UTV,3,00FFFF
+72Ca11,1,"72","Gorge de Loup --> Marcy l'Etoile.",REG - LCO - NOR - UTV,3,00FFFF
+72Ca13,1,"72","Gorge de Loup --> Les Terres St G. les Ollieres",REG - LCO - NOR - UTV,3,00FFFF
+72Cr14,1,"72","Les Terres St G. les Ollieres --> Gorge de Loup",REG - LCO - NOR - UTV,3,00FFFF
+72Cr6,1,"72","Val Fontaine --> Gorge de Loup",REG - LCO - NOR - UTV,3,00FFFF
+72Ca3,1,"72","Gorge de Loup --> Ste Consorce.",REG - LCO - NOR - UTV,3,00FFFF
+72Cr4,1,"72","Ste Consorce --> Gorge de Loup.",REG - LCO - NOR - UTV,3,00FFFF
+73Dr4,1,"73","Brindas Centre --> Gorge de Loup",REG - LCO - NOR - UTPE,3,00FFFF
+73Dr2,1,"73","Brindas Centre --> Gorge de Loup.",REG - LCO - NOR - UTPE,3,00FFFF
+73Da1,1,"73","Gorge de Loup --> Brindas Centre",REG - LCO - NOR - UTPE,3,00FFFF
+73Ea1,1,"73E","Gorge de Loup --> Brindas Centre",REG - LCO - EXP - ,3,00FFFF
+73Er2,1,"73E","Brindas Centre --> Gorge de Loup",REG - LCO - EXP - ,3,00FFFF
+76Ar6,1,"76","Decines Grand Large --> Corbas Les Balmes",REG - LCO - NOR - UTA,3,00FFFF
+76Ar8,1,"76","Decines Grand Large --> Les Balmes",REG - LCO - NOR - UTA,3,00FFFF
+76Ar4,1,"76","Decines Grand Large --> Les Balmes.",REG - LCO - NOR - UTA,3,00FFFF
+76Aa1,1,"76","Corbas Les Balmes --> Decines Grand Large",REG - LCO - NOR - UTA,3,00FFFF
+76Ar2,1,"76","Decines Grand Large --> Corbas Les Balmes.",REG - LCO - NOR - UTA,3,00FFFF
+77Ar2,1,"77","Pont de Fontaines --> Montessuy Gutenberg",REG - LCO - NOR - UTC,3,00FFFF
+77Aa1,1,"77","Montessuy Gutenberg --> Pont de Fontaines",REG - LCO - NOR - UTC,3,00FFFF
+78Ba1,1,"78","Gare d'Oullins --> Gare de  Givors Ville",REG - PRO - NOR - UTO,3,00FFFF
+78Ba5,1,"78","St-Genis Lycee Descartes --> Vernaison La Rossignole",REG - PRO - NOR - UTO,3,00FFFF
+78Br6,1,"78","Vernaison La Rossignole --> Gare d'Oullins",REG - PRO - NOR - UTO,3,00FFFF
+78Br2,1,"78","Gare de Givors Ville --> Gare d'Oullins.",REG - PRO - NOR - UTO,3,00FFFF
+79Aa5,1,"79","La Borelle --> Decines Grand Large..",REG - PRO - NOR - UTP,3,00FFFF
+79Ar2,1,"79","Decines Grand Large --> La Borelle.",REG - PRO - NOR - UTP,3,00FFFF
+79Aa1,1,"79","La Borelle --> Decines Grand Large...",REG - PRO - NOR - UTP,3,00FFFF
+79Ar6,1,"79","Decines Grand Large --> La Borelle..",REG - PRO - NOR - UTP,3,00FFFF
+7Ar2,1,"7","Vaulx-en-Velin Le Bourg --> Laurent Bonnevay",REG - LCO - NOR - UTS,3,00FFFF
+7Aa3,1,"7","Laurent Bonnevay --> Vaulx-en-Velin Le Bourg",REG - LCO - NOR - UTS,3,00FFFF
+7Aa1,1,"7","Laurent Bonnevay --> Vaulx-en-Velin Le Bourg.",REG - LCO - NOR - UTS,3,00FFFF
+7Aa5,1,"7","Laurent Bonnevay --> Bonnevay - Bel Air",REG - LCO - NOR - UTS,3,00FFFF
+7Ar6,1,"7","Bonnevay - Bel Air --> Laurent Bonnevay",REG - LCO - NOR - UTS,3,00FFFF
+7Ar4,1,"7","Vaulx-en-Velin Le Bourg --> Laurent Bonnevay.",REG - LCO - NOR - UTS,3,00FFFF
+80Aa1,1,"80","Grigny La Colombe --> Givors Vallee du Gier",REG - LCO - NOR - UTG,3,00FFFF
+80Ar6,1,"80","Gare de Givors Ville --> Grigny La Colombe",REG - LCO - NOR - UTG,3,00FFFF
+80Aa5,1,"80","Grigny La Colombe --> Gare de  Givors Ville",REG - LCO - NOR - UTG,3,00FFFF
+80Ar2,1,"80","Givors Vallee du Gier --> Grigny La Colombe",REG - LCO - NOR - UTG,3,00FFFF
+81Ar6,1,"81","College Paul Vallon --> La Jument Noire",REG - LCO - NOR - UTG,3,00FFFF
+81Ar14,1,"81","College Paul Vallon --> Plateau de Montrond",REG - LCO - NOR - UTG,3,00FFFF
+81Aa15,1,"81","Plateau de Montrond --> College Paul Vallon",REG - LCO - NOR - UTG,3,00FFFF
+81Aa11,1,"81","Metallurgie --> College Paul Vallon",REG - LCO - NOR - UTG,3,00FFFF
+81Aa3,1,"81","Gare de Givors Canal --> College Paul Vallon",REG - LCO - NOR - UTG,3,00FFFF
+81Ar12,1,"81","College Paul Vallon --> Plateau de Montrond.",REG - LCO - NOR - UTG,3,00FFFF
+81Ar4,1,"81","College Paul Vallon --> Gare de Givors Canal",REG - LCO - NOR - UTG,3,00FFFF
+81Aa13,1,"81","Plateau de Montrond --> College Paul Vallon.",REG - LCO - NOR - UTG,3,00FFFF
+81Aa1,1,"81","Plateau de Montrond --> College Paul Vallon..",REG - LCO - NOR - UTG,3,00FFFF
+81Ar2,1,"81","College Paul Vallon --> Plateau de Montrond..",REG - LCO - NOR - UTG,3,00FFFF
+81Ar8,1,"81","College Paul Vallon --> Gare de  Givors Ville",REG - LCO - NOR - UTG,3,00FFFF
+81Aa7,1,"81","Gare de Givors Ville --> College Paul Vallon",REG - LCO - NOR - UTG,3,00FFFF
+83Ar2,1,"83","Grand Parc Miribel Jonage --> Vaulx-en-Velin La Soie",REG - LCO - NOR - UTS,3,00FFFF
+83Aa1,1,"83","Vaulx-en-Velin La Soie --> Grand Parc Miribel Jonage",REG - LCO - NOR - UTS,3,00FFFF
+84Ar4,1,"84","Neuville --> Maison Ampere - Musee",REG - LCO - NOR - UTV,3,00FFFF
+84Aa5,1,"84","Chantemerle --> College Jean Renoir",REG - LCO - NOR - UTV,3,00FFFF
+84Ar10,1,"84","Neuville --> Maison Ampere - Musee.",REG - LCO - NOR - UTV,3,00FFFF
+84Aa13,1,"84","Maison Ampere - Musee --> Neuville",REG - LCO - NOR - UTV,3,00FFFF
+84Ar8,1,"84","College Jean Renoir --> Maison Ampere - Musee",REG - LCO - NOR - UTV,3,00FFFF
+84Aa3,1,"84","Maison Ampere - Musee --> Neuville.",REG - LCO - NOR - UTV,3,00FFFF
+84Ar2,1,"84","Neuville --> Gare de Vaise",REG - LCO - NOR - UTV,3,00FFFF
+84Aa7,1,"84","Maison Ampere - Musee --> Lycee Rosa Parks",REG - LCO - NOR - UTV,3,00FFFF
+84Aa1,1,"84","Gare de Vaise --> Neuville",REG - LCO - NOR - UTV,3,00FFFF
+84Ar14,1,"84","Ecole N.D. Bellegarde --> Chantemerle",REG - LCO - NOR - UTV,3,00FFFF
+84Ar6,1,"84","Ecole N.D. Bellegarde --> Gare de Vaise",REG - LCO - NOR - UTV,3,00FFFF
+85Ar12,1,"85","Meyzieu Gadelles --> Meyzieu Mendes France",REG - LCO - NOR - UTS,3,00FFFF
+85Aa1,1,"85","Decines Grand Large --> Meyzieu Gadelles..",REG - LCO - NOR - UTS,3,00FFFF
+85Ar2,1,"85","Meyzieu Gadelles --> Decines Grand Large.",REG - LCO - NOR - UTS,3,00FFFF
+85Aa11,1,"85","Meyzieu Mendes France --> Meyzieu Gadelles..",REG - LCO - NOR - UTS,3,00FFFF
+85Aa3,1,"85","Decines Grand Large --> Meyzieu Gadelles...",REG - LCO - NOR - UTS,3,00FFFF
+86Ar2,1,"86","La Tour de Salvagny Chambettes --> Gorge de Loup",REG - LCO - NOR - UTV,3,00FFFF
+86Aa1,1,"86","Gorge de Loup --> La Tour de Salvagny Chambettes",REG - LCO - NOR - UTV,3,00FFFF
+87Ar2,1,"87","Mions Bourdelle --> Gare de Venissieux",REG - LCO - NOR - UTA,3,00FFFF
+87Aa1,1,"87","Gare de Venissieux --> Mions Bourdelle",REG - LCO - NOR - UTA,3,00FFFF
+87Ar4,1,"87","Mions Bourdelle --> Gare de Venissieux.",REG - LCO - NOR - UTA,3,00FFFF
+88Ba1,1,"88","Gare d'Oullins --> St Genis Gadagne..",REG - PRO - NOR - UTO,3,00FFFF
+88Br2,1,"88","St Genis Gadagne --> Gare d'Oullins.",REG - PRO - NOR - UTO,3,00FFFF
+88Ba3,1,"88","Gare d'Oullins --> St Genis Gadagne...",REG - PRO - NOR - UTO,3,00FFFF
+89Da1,1,"89","Gare de Vaise --> Porte de Lyon",REG - LCO - NOR - UTV,3,00FFFF
+89Dr2,1,"89","Porte de Lyon --> Gare de Vaise",REG - LCO - NOR - UTV,3,00FFFF
+89Dr8,1,"89","Moulin Berger --> Gare de Vaise",REG - LCO - NOR - UTV,3,00FFFF
+89Da7,1,"89","Gare de Vaise --> Porte de Lyon.",REG - LCO - NOR - UTV,3,00FFFF
+89Ea1,1,"89D","Gare de Vaise --> Porte de Lyon",REG - LCO - NOR - ,3,00FFFF
+89Er2,1,"89D","Porte de Lyon --> Gare de Vaise",REG - LCO - NOR - ,3,00FFFF
+89Er4,1,"89D","Techlid Le Paisy --> Gare de Vaise",REG - LCO - NOR - ,3,00FFFF
+89Ea3,1,"89D","Gare de Vaise --> Porte de Lyon.",REG - LCO - NOR - ,3,00FFFF
+8Aa1,1,"8","Perrache --> Oullins Clement Desormes",REG - LCO - NOR - UTO,3,00FFFF
+8Ar2,1,"8","Oullins Clement Desormes --> Perrache",REG - LCO - NOR - UTO,3,00FFFF
+90Ar6,1,"90","Ste Foy Chatelain. --> Valmy",REG - LCO - NOR - UTV,3,00FFFF
+90Aa3,1,"90","Pont Mouton --> Boyer",REG - LCO - NOR - UTV,3,00FFFF
+90Ar2,1,"90","Ste Foy Chatelain. --> Valmy - Place Ferber",REG - LCO - NOR - UTV,3,00FFFF
+90Aa1,1,"90","Valmy - Place Ferber --> Ste Foy Chatelain.",REG - LCO - NOR - UTV,3,00FFFF
+90Aa7,1,"90","Gorge de Loup --> Ste Foy Chatelain.",REG - LCO - NOR - UTV,3,00FFFF
+90Ar4,1,"90","Boyer --> Pont Mouton",REG - LCO - NOR - UTV,3,00FFFF
+93Aa1,1,"93","Hopital Feyzin Venissieux --> Porte des Alpes",REG - LCO - NOR - UTA,3,00FFFF
+93Ar2,1,"93","Porte des Alpes --> Hopital Feyzin Venissieux",REG - LCO - NOR - UTA,3,00FFFF
+93Aa3,1,"93","Hopital Feyzin Venissieux --> Parc Technologique",REG - LCO - NOR - UTA,3,00FFFF
+93Ar4,1,"93","Parc Technologique --> Hopital Feyzin Venissieux",REG - LCO - NOR - UTA,3,00FFFF
+93Aa5,1,"93","Hopital Feyzin Venissieux --> Gare de Venissieux",REG - LCO - NOR - UTA,3,00FFFF
+93Ar6,1,"93","Gare de Venissieux --> Hopital Feyzin Venissieux",REG - LCO - NOR - UTA,3,00FFFF
+95Ar2,1,"95","Jonage Chateau des Marres --> Meyzieu - Parc du Grand Large",REG - LCO - NOR - UTS,3,00FFFF
+95Aa1,1,"95","Meyzieu - Parc du Grand Large --> Jonage Chateau des Marres",REG - LCO - NOR - UTS,3,00FFFF
+96Aa3,1,"96","College Jean Renoir --> St Germain Pain Beni",REG - LCO - NOR - UTV,3,00FFFF
+96Ar6,1,"96","St Germain Cites --> Lycee Rosa Parks.",REG - LCO - NOR - UTV,3,00FFFF
+96Aa5,1,"96","Ecole N.D. Bellegarde --> Quincieux Boulodrome.",REG - LCO - NOR - UTV,3,00FFFF
+96Aa7,1,"96","Ecole N.D. Bellegarde --> St Germain Pain Beni",REG - LCO - NOR - UTV,3,00FFFF
+96Ar2,1,"96","Quincieux Boulodrome --> Neuville.",REG - LCO - NOR - UTV,3,00FFFF
+96Aa1,1,"96","Neuville --> Quincieux Boulodrome.",REG - LCO - NOR - UTV,3,00FFFF
+97Aa1,1,"97","Montanay Les Dimes --> Neuville",REG - LCO - NOR - UTV,3,00FFFF
+97Ar6,1,"97","Ecole N.D. Bellegarde --> Le Mas Mathieu",REG - LCO - NOR - UTV,3,00FFFF
+97Ar2,1,"97","Neuville --> Montanay Les Dimes",REG - LCO - NOR - UTV,3,00FFFF
+97Ar4,1,"97","Neuville --> Montanay Les Dimes.",REG - LCO - NOR - UTV,3,00FFFF
+97Ar8,1,"97","College Jean Renoir --> Le Mas Mathieu",REG - LCO - NOR - UTV,3,00FFFF
+97Aa7,1,"97","Montanay La Tour --> College Jean Renoir",REG - LCO - NOR - UTV,3,00FFFF
+97Aa5,1,"97","Montanay La Tour --> Ecole N.D. Bellegarde",REG - LCO - NOR - UTV,3,00FFFF
+97Aa3,1,"97","Montanay Les Dimes --> Neuville.",REG - LCO - NOR - UTV,3,00FFFF
+98Dr2,1,"98","Marcy Campus Sanofi --> Gorge de Loup.",REG - LCO - NOR - UTV,3,00FFFF
+98Da1,1,"98","Gorge de Loup --> Marcy Campus Sanofi.",REG - LCO - NOR - UTV,3,00FFFF
+98Er2,1,"98E","Marcy Campus Sanofi --> Gorge de Loup",REG - LCO - NOR - ,3,00FFFF
+98Ea1,1,"98E","Gorge de Loup --> Marcy Campus Sanofi",REG - LCO - NOR - ,3,00FFFF
+9Aa1,1,"9","Cordeliers --> Sathonay Castellane",REG - LCO - NOR - UTN,3,00FFFF
+9Ar2,1,"9","Sathonay Castellane --> Cordeliers",REG - LCO - NOR - UTN,3,00FFFF
+111Aa1,1,"111","Parilly --> Jacques Prevert",REG - PRR - NOR - UTA,3,00FFFF
+111Ar2,1,"111","Jacques Prevert --> Parilly",REG - PRR - NOR - UTA,3,00FFFF
+112Ar2,1,"112","Corbas Musee de l'Aviation --> Parilly",REG - PRR - NOR - UTA,3,00FFFF
+112Aa1,1,"112","Parilly --> Corbas Musee de l'Aviation",REG - PRR - NOR - UTA,3,00FFFF
+115Ar4,1,"115","Lissieu Centre Mairie --> Bois Dieu",REG - PRR - NOR - UTV,3,00FFFF
+115Ar2,1,"115","Lissieu Centre Mairie --> Gare de Vaise",REG - PRR - NOR - UTV,3,00FFFF
+115Aa3,1,"115","Bois Dieu --> Lissieu Centre Mairie",REG - PRR - NOR - UTV,3,00FFFF
+115Aa1,1,"115","Gare de Vaise --> Lissieu Centre Mairie",REG - PRR - NOR - UTV,3,00FFFF
+118Ar2,1,"118","Bois Dieu --> Gare de Vaise",REG - PRR - NOR - UTV,3,00FFFF
+118Aa1,1,"118","Gare de Vaise --> Bois Dieu",REG - PRR - NOR - UTV,3,00FFFF
+142Aa1,1,"142","Gorge de Loup --> Ecole Veterinaire",REG - CAF - NOR - UTV,3,00FFFF
+142Ar2,1,"142","Ecole Veterinaire --> Gorge de Loup",REG - CAF - NOR - UTV,3,00FFFF
+171a3,1,"171","Pont Guillotiere RD --> Crepieux Les Brosses",REG - CAF - NOR - UTN,3,00FFFF
+171r2,1,"171","Crepieux Les Brosses --> Pont Guillotiere RD",REG - CAF - NOR - UTN,3,00FFFF
+171a1,1,"171","Pont Guillotiere RD --> Crepieux Les Brosses.",REG - CAF - NOR - UTN,3,00FFFF
+296r2,1,"2960","St-Pierre-de-Chandieu - Rajat --> Gare Part-Dieu Villette",ITL - CAF - NOR - ,3,00FFFF
+296r6,1,"2960","St-Pierre-de-Chandieu - Rajat --> Parilly",ITL - CAF - NOR - ,3,00FFFF
+296a1,1,"2960","Gare Part-Dieu Villette --> St-Pierre-de-Chandieu - Rajat",ITL - CAF - NOR - ,3,00FFFF
+296r8,1,"2960","St-Pierre-de-Chandieu - Rajat --> Gare Part-Dieu Villette.",ITL - CAF - NOR - ,3,00FFFF
+296a5,1,"2960","Gare Part-Dieu Villette --> St-Pierre-de-Chandieu - Rajat.",ITL - CAF - NOR - ,3,00FFFF
+296r4,1,"2960","St-Pierre-de-Chandieu - Rajat --> Parilly.",ITL - CAF - NOR - ,3,00FFFF
+C10Aa5,1,"C10","Orsel --> Saint-Genis Barolles",REG - MAJ - NOR - UTO,3,00FFFF
+C10Ar2,1,"C10","Saint-Genis Barolles --> Bellecour Charite.",REG - MAJ - NOR - UTO,3,00FFFF
+C10Aa1,1,"C10","Bellecour A. Poncet --> Saint-Genis Barolles.",REG - MAJ - NOR - UTO,3,00FFFF
+C11Ar12,1,"C11","Laurent Bonnevay --> Saxe - Gambetta..",REG - MAJ - NOR - UTS,3,00FFFF
+C11Aa11,1,"C11","Saxe - Gambetta. --> Laurent Bonnevay",REG - MAJ - NOR - UTS,3,00FFFF
+C12Aa3,1,"C12","Bellecour A. Poncet --> Hopital Feyzin Venissieux",REG - MAJ - NOR - UTA,3,00FFFF
+C12Ar2,1,"C12","Hopital Feyzin Venissieux --> Bellecour Le Viste",REG - MAJ - NOR - UTA,3,00FFFF
+C12Aa13,1,"C12","Moulin a Vent --> Hopital Feyzin Venissieux",REG - MAJ - NOR - UTA,3,00FFFF
+C12Aa1,1,"C12","Bellecour A. Poncet --> Hopital Feyzin Venissieux.",REG - MAJ - NOR - UTA,3,00FFFF
+C13Ar2,1,"C13","Montessuy Gutenberg --> Hotel de Ville L.Pradel",REG - MAJ - NOR - UTC,3,00FFFF
+C13Aa3,1,"C13","Grange Blanche --> Hotel de Ville - L. Pradel",REG - MAJ - NOR - UTC,3,00FFFF
+C13Ar10,1,"C13","Cuire --> Hotel de Ville L.Pradel",REG - MAJ - NOR - UTC,3,00FFFF
+C13Ar12,1,"C13","Hotel de Ville - L. Pradel --> Grange Blanche",REG - MAJ - NOR - UTC,3,00FFFF
+C13Ar4,1,"C13","Hotel de Ville - L. Pradel --> Grange Blanche.",REG - MAJ - NOR - UTC,3,00FFFF
+C13Aa1,1,"C13","Hotel de Ville L.Pradel --> Montessuy Gutenberg",REG - MAJ - NOR - UTC,3,00FFFF
+C13Ar8,1,"C13","Gare Part-Dieu Vivier Merle --> Grange Blanche",REG - MAJ - NOR - UTC,3,00FFFF
+C14Ar2,1,"C14","Les Sources --> Jean Mace",REG - MAJ - NOR - UTV,3,00FFFF
+C14Aa3,1,"C14","Gare de Vaise --> Les Sources",REG - MAJ - NOR - UTV,3,00FFFF
+C14Ar4,1,"C14","Les Sources --> Gare de Vaise",REG - MAJ - NOR - UTV,3,00FFFF
+C14Ar6,1,"C14","Gare de Vaise --> Jean Mace.",REG - MAJ - NOR - UTV,3,00FFFF
+C14Aa5,1,"C14","Jean Mace --> Gare de Vaise",REG - MAJ - NOR - UTV,3,00FFFF
+C14Aa1,1,"C14","Jean Mace --> Les Sources",REG - MAJ - NOR - UTV,3,00FFFF
+C14Ar30,1,"C14","Saxe - Lafayette --> Jean Mace",REG - MAJ - NOR - UTV,3,00FFFF
+C14Aa31,1,"C14","Saxe - Lafayette --> Les Sources",REG - MAJ - NOR - UTV,3,00FFFF
+C14Aa40,1,"C14","Jean Mace --> Les Sources.",REG - MAJ - NOR - UTV,3,00FFFF
+C14Ar41,1,"C14","Les Sources --> Jean Mace.",REG - MAJ - NOR - UTV,3,00FFFF
+C15Aa1,1,"C15","Bachut - Mairie du 8eme --> Laurent Bonnevay",REG - MAJ - NOR - UTS,3,00FFFF
+C15Ar2,1,"C15","Laurent Bonnevay --> Bachut - Mairie du 8eme",REG - MAJ - NOR - UTS,3,00FFFF
+C15Ea1,1,"C15E","Mermoz - Pinel --> Parilly Universite Hippodrome",REG - LCO - EXP - UTP,3,00FFFF
+C15Er2,1,"C15E","Parilly Universite Hippodrome --> Mermoz - Pinel",REG - LCO - EXP - UTP,3,00FFFF
+C16Ar2,1,"C16","Surville Route de Vienne --> Charpennes Charles Hernu.",REG - MAJ - NOR - UTP,3,00FFFF
+C16Aa1,1,"C16","Charpennes Charles Hernu --> Surville Route de Vienne..",REG - MAJ - NOR - UTP,3,00FFFF
+C17Ar4,1,"C17","Laurent Bonnevay --> Charpennes Charles Hernu",REG - MAJ - NOR - UTP,3,00FFFF
+C17Aa5,1,"C17","Charpennes Charles  Hernu --> Porte des Alpes.",REG - MAJ - NOR - UTP,3,00FFFF
+C17Ar2,1,"C17","Porte des Alpes --> Charpennes Charles Hernu.",REG - MAJ - NOR - UTP,3,00FFFF
+C17Ar6,1,"C17","Porte des Alpes --> Charpennes Charles Hernu..",REG - MAJ - NOR - UTP,3,00FFFF
+C17Ar8,1,"C17","Laurent Bonnevay --> Charpennes Charles Hernu.",REG - MAJ - NOR - UTP,3,00FFFF
+C17Aa9,1,"C17","Charpennes Charles  Hernu --> Laurent Bonnevay",REG - MAJ - NOR - UTP,3,00FFFF
+C17Aa3,1,"C17","Laurent Bonnevay --> Porte des Alpes",REG - MAJ - NOR - UTP,3,00FFFF
+C17Aa1,1,"C17","Charpennes Charles  Hernu --> Porte des Alpes..",REG - MAJ - NOR - UTP,3,00FFFF
+C17Aa7,1,"C17","Charpennes Charles  Hernu --> Laurent Bonnevay.",REG - MAJ - NOR - UTP,3,00FFFF
+C18Aa7,1,"C18","Hotel de Ville - L. Pradel --> Place Flammarion",REG - MAJ - NOR - UTC,3,00FFFF
+C18Ar2,1,"C18","Croix-Rousse Nord --> Hotel de Ville - L. Pradel",REG - MAJ - NOR - UTC,3,00FFFF
+C18Ar6,1,"C18","Place Flammarion --> Hotel de Ville - L. Pradel",REG - MAJ - NOR - UTC,3,00FFFF
+C18Aa1,1,"C18","Hotel de Ville - L. Pradel --> Croix-Rousse Nord",REG - MAJ - NOR - UTC,3,00FFFF
+C19Ar2,1,"C19","Francheville Taffignon --> Perrache",REG - MAJ - NOR - UTPE,3,00FFFF
+C19Aa3,1,"C19","Perrache --> Francheville Taffignon",REG - MAJ - NOR - UTPE,3,00FFFF
+C19Aa1,1,"C19","Perrache --> Francheville Taffignon.",REG - MAJ - NOR - UTPE,3,00FFFF
+C1Ar2,1,"C1","Cuire --> Part-Dieu Jules Favre",REG - MAJ - NOR - UTN,3,00FFFF
+C1Aa3,1,"C1","Vitton - Belges --> Cuire",REG - MAJ - NOR - UTN,3,00FFFF
+C1Aa1,1,"C1","Part-Dieu Jules Favre --> Cuire.",REG - MAJ - NOR - UTN,3,00FFFF
+C20Da1,1,"C20","Bellecour Le Viste --> Francheville Taffignon",REG - MAJ - NOR - UTPE,3,00FFFF
+C20Dr10,1,"C20","Fort du Bruissin --> Bellecour Le Viste",REG - MAJ - NOR - UTPE,3,00FFFF
+C20Da11,1,"C20","Bellecour Le Viste --> Fort du Bruissin",REG - MAJ - NOR - UTPE,3,00FFFF
+C20Da39,1,"C20","Pont Kitchener RG --> Fort du Bruissin",REG - MAJ - NOR - UTPE,3,00FFFF
+C20Dr2,1,"C20","Francheville Taffignon --> Bellecour Le Viste",REG - MAJ - NOR - UTPE,3,00FFFF
+C20Ea37,1,"C20E","Pont Kitchener RG --> Fort du Bruissin",REG - MAJ - EXP - ,3,00FFFF
+C20Er2,1,"C20E","Fort du Bruissin --> Bellecour Le Viste",REG - MAJ - EXP - ,3,00FFFF
+C20Ea1,1,"C20E","Bellecour Le Viste --> Fort du Bruissin",REG - MAJ - EXP - ,3,00FFFF
+C21Aa1,1,"C21","Perrache --> Gorge de Loup",REG - MAJ - NOR - UTPE,3,00FFFF
+C21Ar2,1,"C21","Gorge de Loup --> Perrache",REG - MAJ - NOR - UTPE,3,00FFFF
+C24Dr2,1,"C24","Craponne Val d'Yzeron --> Gorge de Loup",REG - MAJ - NOR - UTPE,3,00FFFF
+C24Da1,1,"C24","Gorge de Loup --> Craponne Val d'Yzeron",REG - MAJ - NOR - UTPE,3,00FFFF
+C24Da3,1,"C24","Gorge de Loup --> Gymnase E.Catalon",REG - MAJ - NOR - UTPE,3,00FFFF
+C24Dr6,1,"C24","Craponne Val d'Yzeron --> Gorge de Loup.",REG - MAJ - NOR - UTPE,3,00FFFF
+C24Dr4,1,"C24","Gymnase E.Catalon --> Gorge de Loup",REG - MAJ - NOR - UTPE,3,00FFFF
+C24Er2,1,"C24E","Gymnase E.Catalon --> Gorge de Loup",REG - MAJ - EXP - ,3,00FFFF
+C24Ea1,1,"C24E","Gorge de Loup --> Gymnase E.Catalon",REG - MAJ - EXP - ,3,00FFFF
+C25Ba3,1,"C25","Gare Part-Dieu Vivier Merle --> St Priest Plaine de Saythe",REG - MAJ - NOR - UTA,3,00FFFF
+C25Br4,1,"C25","St Priest Plaine de Saythe --> Gare Part-Dieu Vivier Merle",REG - MAJ - NOR - UTA,3,00FFFF
+C25Br2,1,"C25","Sogaris - Promotrans --> Gare Part-Dieu Vivier Merle",REG - MAJ - NOR - UTA,3,00FFFF
+C25Ba1,1,"C25","Gare Part-Dieu Vivier Merle --> Sogaris - Promotrans",REG - MAJ - NOR - UTA,3,00FFFF
+C26Aa5,1,"C26","Le Tonkin --> Grange Blanche",REG - MAJ - NOR - UTP,3,00FFFF
+C26Aa1,1,"C26","Cite Inter Transbordeur --> Grange Blanche.",REG - MAJ - NOR - UTP,3,00FFFF
+C26Aa21,1,"C26","Cite Inter Transbordeur --> Grange Blanche..",REG - MAJ - NOR - UTP,3,00FFFF
+C26Ar2,1,"C26","Grange Blanche --> Cite Inter Transbordeur",REG - MAJ - NOR - UTP,3,00FFFF
+C2Ar2,1,"C2","Rillieux Semailles --> Part-Dieu Jules Favre",REG - MAJ - NOR - UTN,3,00FFFF
+C2Aa1,1,"C2","Part-Dieu Jules Favre --> Rillieux Semailles",REG - MAJ - NOR - UTN,3,00FFFF
+C3Ar4,1,"C3","Laurent Bonnevay --> Gare Saint-Paul",REG - MAJ - NOR - UTS,3,00FFFF
+C3Aa1,1,"C3","Gare Saint-Paul --> Vaulx-en-Velin La Grappiniere.",REG - MAJ - NOR - UTS,3,00FFFF
+C3Ar2,1,"C3","Vaulx-en-Velin La Grappiniere --> Gare Saint-Paul",REG - MAJ - NOR - UTS,3,00FFFF
+C3Aa3,1,"C3","Laurent Bonnevay --> Vaulx-en-Velin La Grappiniere.",REG - MAJ - NOR - UTS,3,00FFFF
+C3Ar10,1,"C3","Vaulx-en-Velin La Grappiniere --> Laurent Bonnevay.",REG - MAJ - NOR - UTS,3,00FFFF
+C3Aa30,1,"C3","Gare Saint-Paul --> Laurent Bonnevay",REG - MAJ - NOR - UTS,3,00FFFF
+C3Ar31,1,"C3","Laurent Bonnevay --> Gare Saint-Paul.",REG - MAJ - NOR - UTS,3,00FFFF
+C4Aa1,1,"C4","Jean Mace --> Cite Internationale",REG - MAJ - NOR - UTN,3,00FFFF
+C4Ar2,1,"C4","Cite Internationale --> Jean Mace",REG - MAJ - NOR - UTN,3,00FFFF
+C4Ar4,1,"C4","Saxe - Lafayette --> Jean Mace",REG - MAJ - NOR - UTN,3,00FFFF
+C4Aa3,1,"C4","Saxe - Lafayette --> Cite Internationale",REG - MAJ - NOR - UTN,3,00FFFF
+C5Ar2,1,"C5","Rillieux Semailles --> Cordeliers",REG - MAJ - NOR - UTN,3,00FFFF
+C5Aa3,1,"C5","Cordeliers --> Vancia Chateau Berard",REG - MAJ - NOR - UTN,3,00FFFF
+C5Aa1,1,"C5","Cordeliers --> Rillieux Semailles",REG - MAJ - NOR - UTN,3,00FFFF
+C5Ar4,1,"C5","Vancia Chateau Berard --> Cordeliers",REG - MAJ - NOR - UTN,3,00FFFF
+C6Ba1,1,"C6","Gare Part-Dieu Vivier Merle --> Ecully Le Perollier.",REG - MAJ - NOR - UTV,3,00FFFF
+C6Br2,1,"C6","Ecully Le Perollier --> Gare Part-Dieu Vivier Merle",REG - MAJ - NOR - UTV,3,00FFFF
+C7Ba1,1,"C7","Gare Part-Dieu Vivier Merle --> Hopital Lyon Sud",REG - MAJ - NOR - UTA,3,00FFFF
+C7Br8,1,"C7","Hopital Lyon Sud --> Gare Part-Dieu Vivier Merle",REG - MAJ - NOR - UTA,3,00FFFF
+C7Ba3,1,"C7","Jean Mace --> Hopital Lyon Sud",REG - MAJ - NOR - UTA,3,00FFFF
+C7Br6,1,"C7","Hopital Lyon Sud --> Gare Part-Dieu Vivier Merle.",REG - MAJ - NOR - UTA,3,00FFFF
+C8Ar2,1,"C8","Vaulx-en-Velin Resistance --> Grange Blanche",REG - MAJ - NOR - UTP,3,00FFFF
+C8Ar4,1,"C8","Vaulx-en-Velin Resistance --> Grange Blanche.",REG - MAJ - NOR - UTP,3,00FFFF
+C8Aa1,1,"C8","Grange Blanche --> Vaulx-en-Velin Resistance",REG - MAJ - NOR - UTP,3,00FFFF
+C8Aa3,1,"C8","Grange Blanche --> Vaulx-en-Velin Resistance.",REG - MAJ - NOR - UTP,3,00FFFF
+C8Aa7,1,"C8","Grange Blanche --> Vaulx-en-Velin Resistance..",REG - MAJ - NOR - UTP,3,00FFFF
+C8Aa5,1,"C8","Grange Blanche --> Vaulx-en-Velin Resistance...",REG - MAJ - NOR - UTP,3,00FFFF
+C9Ar6,1,"C9","Hopitaux Est --> Bellecour Le Viste.",REG - MAJ - NOR - UTP,3,00FFFF
+C9Aa5,1,"C9","Bellecour A. Poncet --> Hopitaux Est.",REG - MAJ - NOR - UTP,3,00FFFF
+301Ar2,1,"A","Vaulx-en-Velin La Soie. --> Perrache",REG - LFO - NOR - ,1,00FFFB
+301Aa1,1,"A","Perrache. --> Vaulx-en-Velin La Soie",REG - LFO - NOR - ,1,00FFFB
+302Aa1,1,"B","Charpennes Charles Hernu . --> Gare d'Oullins.",REG - LFO - NOR - ,1,00FFFB
+302Ar2,1,"B","Gare d'Oullins. --> Charpennes Charles Hernu .",REG - LFO - NOR - ,1,00FFFB
+303a1,1,"C","Hotel de Ville L.Pradel --> Cuire",REG - LFO - NOR - ,1,00FFFB
+303r2,1,"C","Cuire --> Hotel de Ville L.Pradel",REG - LFO - NOR - ,1,00FFFB
+303r4,1,"C","Henon --> Hotel de Ville L.Pradel",REG - LFO - NOR - ,1,00FFFB
+304a1,1,"D","Gare de Vaise --> Gare de Venissieux",REG - LFO - NOR - ,1,00FFFB
+304a11,1,"D","Gare de Vaise --> Gare de Venissieux.",REG - LFO - NOR - ,1,00FFFB
+304r2,1,"D","Gare de Venissieux. --> Gare de Vaise.",REG - LFO - NOR - ,1,00FFFB
+304r12,1,"D","Gare de Venissieux. --> Gare de Vaise..",REG - LFO - NOR - ,1,00FFFB
+T1Ar6,1,"T1","IUT Feyssine --> Debourg",REG - LFO - NOR - UTT,0,00FFF0
+T1Aa5,1,"T1","Debourg --> Perrache.",REG - LFO - NOR - UTT,0,00FFF0
+T1Aa3,1,"T1","Debourg --> Perrache..",REG - LFO - NOR - UTT,0,00FFF0
+T1Ar4,1,"T1","Perrache --> Debourg",REG - LFO - NOR - UTT,0,00FFF0
+T1Aa1,1,"T1","Debourg --> IUT - Feyssine",REG - LFO - NOR - UTT,0,00FFF0
+T1Ar2,1,"T1","IUT Feyssine --> Debourg.",REG - LFO - NOR - UTT,0,00FFF0
+T1Aa27,1,"T1","Perrache. --> IUT - Feyssine",REG - LFO - NOR - UTT,0,00FFF0
+T2r6,1,"T2","St-Priest Bel Air. --> Porte des Alpes",REG - LFO - NOR - UTT,0,00FFF0
+T2a7,1,"T2","Perrache. --> Porte des Alpes...",REG - LFO - NOR - UTT,0,00FFF0
+T2r8,1,"T2","Porte des Alpes.. --> Perrache",REG - LFO - NOR - UTT,0,00FFF0
+T2r12,1,"T2","Europe - Universite --> Grange Blanche.",REG - LFO - NOR - UTT,0,00FFF0
+T2a3,1,"T2","Grange  Blanche --> Porte des Alpes..",REG - LFO - NOR - UTT,0,00FFF0
+T2r24,1,"T2","St-Priest Bel Air. --> Grange Blanche",REG - LFO - NOR - UTT,0,00FFF0
+T2a5,1,"T2","Porte des  Alpes --> Saint-Priest Bel Air",REG - LFO - NOR - UTT,0,00FFF0
+T2a1,1,"T2","Perrache. --> Saint-Priest Bel Air",REG - LFO - NOR - UTT,0,00FFF0
+T2r2,1,"T2","St-Priest Bel Air. --> Perrache",REG - LFO - NOR - UTT,0,00FFF0
+T2r4,1,"T2","Porte des Alpes.. --> Grange Blanche",REG - LFO - NOR - UTT,0,00FFF0
+T2r10,1,"T2","Europe - Universite --> Perrache..",REG - LFO - NOR - UTT,0,00FFF0
+T3a1,1,"T3","Gare Part  Dieu --> Meyzieu Z.i",REG - LFO - NOR - UTTL,0,00FFF0
+T3r6,1,"T3","Meyzieu les Panettes --> Gare Part Dieu",REG - LFO - NOR - UTTL,0,00FFF0
+T3r2,1,"T3","Meyzieu Z.i --> Gare Part Dieu.",REG - LFO - NOR - UTTL,0,00FFF0
+T3a3,1,"T3","Gare Part  Dieu --> Meyzieu les Panettes",REG - LFO - NOR - UTTL,0,00FFF0
+T4Ar6,1,"T4","Gare Part Dieu --> La Doua - G.Berger",REG - LFO - NOR - UTTL,0,00FFF0
+T4Aa9,1,"T4","Gare Part  Dieu --> Hopital Feyzin Venissieux",REG - LFO - NOR - UTTL,0,00FFF0
+T4Aa1,1,"T4","La Doua - G.Berger --> Hopital Feyzin Venissieux",REG - LFO - NOR - UTTL,0,00FFF0
+T4Ar2,1,"T4","Feyzin Venissieux. --> La Doua - G.Berger",REG - LFO - NOR - UTTL,0,00FFF0
+T4Ar10,1,"T4","Feyzin Venissieux. --> Gare Part Dieu",REG - LFO - NOR - UTTL,0,00FFF0
+T4Ar42,1,"T4","Jet d'Eau - M. France --> La Doua - G.Berger",REG - LFO - NOR - UTTL,0,00FFF0
+T5a1,1,"T5","Grange  Blanche --> Parc du Chene",REG - LFO - NOR - UTT,0,00FFF0
+T5r6,1,"T5","Eurexpo --> Grange Blanche",REG - LFO - NOR - UTT,0,00FFF0
+T5a9,1,"T5","De Tassigny - Curial --> Eurexpo.",REG - LFO - NOR - UTT,0,00FFF0
+T5a3,1,"T5","Grange  Blanche --> Eurexpo.",REG - LFO - NOR - UTT,0,00FFF0
+T5r2,1,"T5","Parc du Chene --> Grange Blanche",REG - LFO - NOR - UTT,0,00FFF0
+T5a7,1,"T5","De Tassigny - Curial --> Parc du Chene",REG - LFO - NOR - UTT,0,00FFF0
+T5r4,1,"T5","Eurexpo. --> Grange Blanche",REG - LFO - NOR - UTT,0,00FFF0
+T5a5,1,"T5","Grange  Blanche --> Eurexpo.",REG - LFO - NOR - UTT,0,00FFF0
+T6r6,1,"T6","Essarts - Laennec --> Debourg",REG - LFO - NOR - UTT,0,00FFF0
+T6a3,1,"T6","Mermoz - Pinel --> Hopitaux Est - Pinel",REG - LFO - NOR - UTT,0,00FFF0
+T6a1,1,"T6","Debourg --> Hopitaux Est - Pinel",REG - LFO - NOR - UTT,0,00FFF0
+T6r4,1,"T6","Hopitaux Est - Pinel --> Mermoz - Pinel",REG - LFO - NOR - UTT,0,00FFF0
+T6r2,1,"T6","Hopitaux Est - Pinel --> Debourg",REG - LFO - NOR - UTT,0,00FFF0
+325r2,1,"F1","St Just --> Vieux Lyon - Cat.St Jean",REG - LFO - NOR - ,7,00FFF3
+325a1,1,"F1","Vieux Lyon - Cat.St Jean --> St Just",REG - LFO - NOR - ,7,00FFF3
+326r2,1,"F2","Fourviere Basilique --> Vieux Lyon - Cat.St Jean",REG - LFO - NOR - ,7,00FFF3
+326a1,1,"F2","Vieux Lyon - Cat.St Jean --> Fourviere Basilique",REG - LFO - NOR - ,7,00FFF3

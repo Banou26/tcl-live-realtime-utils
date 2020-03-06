@@ -1,0 +1,13 @@
+{
+  "name": "lyon-google-map",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}

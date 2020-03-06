@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{D2E7C45A-5B5D-46E9-B4EF-D4F21C6DB4D3}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>Library</OutputType>
+    <LangVersion>8.0</LangVersion>
+    <AssemblyName>AntilopeGP.Shared</AssemblyName>
+    <TargetFrameworkIdentifier>.NETStandard</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Xamarin.Forms.Xaml">
+      <HintPath>C:\dev\lyon-google-map\app\unknown\assemblies\Xamarin.Forms.Xaml.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Forms.Core">
+      <HintPath>C:\dev\lyon-google-map\app\unknown\assemblies\Xamarin.Forms.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>C:\dev\lyon-google-map\app\unknown\assemblies\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Prism.DryIoc.Forms">
+      <HintPath>C:\dev\lyon-google-map\app\unknown\assemblies\Prism.DryIoc.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="Prism.Forms">
+      <HintPath>C:\dev\lyon-google-map\app\unknown\assemblies\Prism.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="Prism">
+      <HintPath>C:\dev\lyon-google-map\app\unknown\assemblies\Prism.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Essentials">
+      <HintPath>C:\dev\lyon-google-map\app\unknown\assemblies\Xamarin.Essentials.dll</HintPath>
+    </Reference>
+    <Reference Include="SkiaSharp">
+      <HintPath>C:\dev\lyon-google-map\app\unknown\assemblies\SkiaSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Esri.ArcGISRuntime">
+      <HintPath>C:\dev\lyon-google-map\app\unknown\assemblies\Esri.ArcGISRuntime.dll</HintPath>
+    </Reference>
+    <Reference Include="Telerik.XamarinForms.Input">
+      <HintPath>C:\dev\lyon-google-map\app\unknown\assemblies\Telerik.XamarinForms.Input.dll</HintPath>
+    </Reference>
+    <Reference Include="Esri.ArcGISRuntime.Xamarin.Forms">
+      <HintPath>C:\dev\lyon-google-map\app\unknown\assemblies\Esri.ArcGISRuntime.Xamarin.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="Rg.Plugins.Popup">
+      <HintPath>C:\dev\lyon-google-map\app\unknown\assemblies\Rg.Plugins.Popup.dll</HintPath>
+    </Reference>
+    <Reference Include="Telerik.XamarinForms.Primitives">
+      <HintPath>C:\dev\lyon-google-map\app\unknown\assemblies\Telerik.XamarinForms.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="Telerik.XamarinForms.DataControls">
+      <HintPath>C:\dev\lyon-google-map\app\unknown\assemblies\Telerik.XamarinForms.DataControls.dll</HintPath>
+    </Reference>
+    <Reference Include="Plugin.Permissions">
+      <HintPath>C:\dev\lyon-google-map\app\unknown\assemblies\Plugin.Permissions.dll</HintPath>
+    </Reference>
+    <Reference Include="Prism.Plugin.Popups">
+      <HintPath>C:\dev\lyon-google-map\app\unknown\assemblies\Prism.Plugin.Popups.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AppCenter.Analytics">
+      <HintPath>C:\dev\lyon-google-map\app\unknown\assemblies\Microsoft.AppCenter.Analytics.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AppCenter.Crashes">
+      <HintPath>C:\dev\lyon-google-map\app\unknown\assemblies\Microsoft.AppCenter.Crashes.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AppCenter">
+      <HintPath>C:\dev\lyon-google-map\app\unknown\assemblies\Microsoft.AppCenter.dll</HintPath>
+    </Reference>
+    <Reference Include="Telerik.XamarinForms.Common">
+      <HintPath>C:\dev\lyon-google-map\app\unknown\assemblies\Telerik.XamarinForms.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core">
+      <HintPath>C:\dev\lyon-google-map\app\unknown\assemblies\System.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>C:\dev\lyon-google-map\app\unknown\assemblies\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml">
+      <HintPath>C:\dev\lyon-google-map\app\unknown\assemblies\System.Xml.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="--PropertyChangedEventArgs.cs" />
+    <Compile Include="AntilopeGP.Configuration\AntilopeWS.cs" />
+    <Compile Include="AntilopeGP.Configuration\Config.cs" />
+    <Compile Include="AntilopeGP.Configuration\DeviceInfo.cs" />
+    <Compile Include="AntilopeGP.Configuration\InfosLigne.cs" />
+    <Compile Include="AntilopeGP.Configuration\Map.cs" />
+    <Compile Include="AntilopeGP.Data\LiveDataManager.cs" />
+    <Compile Include="AntilopeGP.FileSystem\FileManager.cs" />
+    <Compile Include="AntilopeGP.FileSystem\IFileManager.cs" />
+    <Compile Include="AntilopeGP.Geometry\GeometryExtensions.cs" />
+    <Compile Include="AntilopeGP.Shared.AppCenter\AnalyticsManager.cs" />
+    <Compile Include="AntilopeGP.Shared.AppCenter\ErrorManager.cs" />
+    <Compile Include="AntilopeGP.Shared.Busy\BusyHelper.cs" />
+    <Compile Include="AntilopeGP.Shared.Busy\BusyPage.cs" />
+    <Compile Include="AntilopeGP.Shared.Controls\ExtendedFlexLayout.cs" />
+    <Compile Include="AntilopeGP.Shared.Display\InsetsManager.cs" />
+    <Compile Include="AntilopeGP.Shared.Events\AnalyticsEvent.cs" />
+    <Compile Include="AntilopeGP.Shared.Events\AnalyticsReport.cs" />
+    <Compile Include="AntilopeGP.Shared.Events\Error.cs" />
+    <Compile Include="AntilopeGP.Shared.Events\ErrorEvent.cs" />
+    <Compile Include="AntilopeGP.Shared.Events\ExtentChangedEvent.cs" />
+    <Compile Include="AntilopeGP.Shared.Events\FavorisListChanged.cs" />
+    <Compile Include="AntilopeGP.Shared.Events\SelectedLignesChangedEvent.cs" />
+    <Compile Include="AntilopeGP.Shared.Geolocation\GeolocationManager.cs" />
+    <Compile Include="AntilopeGP.Shared.Helpers\HttpHelper.cs" />
+    <Compile Include="AntilopeGP.Shared.Map\Attributes.cs" />
+    <Compile Include="AntilopeGP.Shared.Map\Feature.cs" />
+    <Compile Include="AntilopeGP.Shared.Map\LigneQueryResult.cs" />
+    <Compile Include="AntilopeGP.Shared.Map\MapManager.cs" />
+    <Compile Include="AntilopeGP.Shared.MVVM\BoolColorConverter.cs" />
+    <Compile Include="AntilopeGP.Shared.MVVM\CheckboxSelectedConverter.cs" />
+    <Compile Include="AntilopeGP.Shared.MVVM\CollectionSampler.cs" />
+    <Compile Include="AntilopeGP.Shared.MVVM\CountConverter.cs" />
+    <Compile Include="AntilopeGP.Shared.MVVM\IndexConverter.cs" />
+    <Compile Include="AntilopeGP.Shared.MVVM\IsNotNullConverter.cs" />
+    <Compile Include="AntilopeGP.Shared.MVVM\LoadStatusConverter.cs" />
+    <Compile Include="AntilopeGP.Shared.MVVM\MultiplierConverter.cs" />
+    <Compile Include="AntilopeGP.Shared.MVVM\NegateBooleanConverter.cs" />
+    <Compile Include="AntilopeGP.Shared.MVVM\NinePlusConverter.cs" />
+    <Compile Include="AntilopeGP.Shared.ViewModels.Favoris\Favori.cs" />
+    <Compile Include="AntilopeGP.Shared.ViewModels.Favoris\FavoriPreferences.cs" />
+    <Compile Include="AntilopeGP.Shared.ViewModels.Favoris\InfoLigne.cs" />
+    <Compile Include="AntilopeGP.Shared.ViewModels.FiltreLignes\InfoLigne.cs" />
+    <Compile Include="AntilopeGP.Shared.ViewModels.Main\SelectedVehicule.cs" />
+    <Compile Include="AntilopeGP.Shared.ViewModels.Pages\FavorisPageViewModel.cs" />
+    <Compile Include="AntilopeGP.Shared.ViewModels.Pages\FiltreLignesPageViewModel.cs" />
+    <Compile Include="AntilopeGP.Shared.ViewModels.Pages\MainPageViewModel.cs" />
+    <Compile Include="AntilopeGP.Shared.ViewModels.Pages\ModalPopupPageViewModel.cs" />
+    <Compile Include="AntilopeGP.Shared.ViewModels.Pages\TutorialPageViewModel.cs" />
+    <Compile Include="AntilopeGP.Shared.ViewModels.Pages\ViewModelBase.cs" />
+    <Compile Include="AntilopeGP.Shared.Views\FavorisPage.cs" />
+    <Compile Include="AntilopeGP.Shared.Views\FiltreLignesPage.cs" />
+    <Compile Include="AntilopeGP.Shared.Views\MainPage.cs" />
+    <Compile Include="AntilopeGP.Shared.Views\ModalPopupPage.cs" />
+    <Compile Include="AntilopeGP.Shared.Views\PopupPage.cs" />
+    <Compile Include="AntilopeGP.Shared.Views\TutorialPage.cs" />
+    <Compile Include="AntilopeGP.Shared.XAML\ImageResourceExtension.cs" />
+    <Compile Include="AntilopeGP.Symbology\SymbolsManager.cs" />
+    <Compile Include="AntilopeGP.Symbology\VehiculeSymbol.cs" />
+    <Compile Include="AntilopeGP\App.cs" />
+    <Compile Include="Keolis.AntilopeGrandPublic.AppCommon.Cryptography\CryptoManager.cs" />
+    <Compile Include="Keolis.AntilopeGrandPublic.AppCommon.Cryptography\EncryptedMessage.cs" />
+    <Compile Include="Keolis.AntilopeGrandPublic.Common.Model\Vehicule.cs" />
+    <Compile Include="Keolis.AntilopeGrandPublic.FrontendCommon.Model\Extent.cs" />
+    <Compile Include="Keolis.AntilopeGrandPublic.FrontendCommon.Model\LigneSens.cs" />
+    <Compile Include="Keolis.AntilopeGrandPublic.FrontendCommon.Model\VehiculeRequestModel.cs" />
+    <Compile Include="Keolis.AntilopeGrandPublic.FrontendCommon.Model\VehiculeResponseModel.cs" />
+    <Compile Include="ProcessedByFody.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="System.Collections.Generic\EnumerableExtensions.cs" />
+    <Compile Include="System\DoubleExtensions.cs" />
+    <Compile Include="System\ObjectExtensions.cs" />
+    <Compile Include="System\StringExtensions.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AntilopeGP\Shared.Configuration.Lignes.json" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
